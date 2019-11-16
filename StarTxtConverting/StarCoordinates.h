@@ -26,6 +26,18 @@ public:
 		minutes = std::stoi(input.substr(4, 2));
 		seconds = std::stoi(input.substr(8, 2));
 	}
+	int GetHours() const
+	{
+		return hours;
+	}
+	int GetMinutes() const
+	{
+		return minutes;
+	}
+	int GetSeconds() const
+	{
+		return seconds;
+	}
 private:
 	int hours;
 	int minutes;
@@ -60,6 +72,22 @@ public:
 		degrees = std::stoi(input.substr(1, 2));
 		minutes = std::stoi(input.substr(5, 2));
 		seconds = std::stoi(input.substr(9, 2));
+	}
+	bool GetNegative() const
+	{
+		return negative;
+	}
+	int GetDegrees() const
+	{
+		return degrees;
+	}
+	int GetMinutes() const
+	{
+		return minutes;
+	}
+	int GetSeconds() const
+	{
+		return seconds;
 	}
 private:
 	bool negative;
