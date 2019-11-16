@@ -37,5 +37,8 @@
     <ClInclude Include="StarCoordinates.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Layouter.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

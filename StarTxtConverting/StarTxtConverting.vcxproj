@@ -121,6 +121,7 @@
     <Text Include="sternenliste.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Layouter.h" />
     <ClInclude Include="Star.h" />
     <ClInclude Include="Starclass.h" />
     <ClInclude Include="StarCoordinates.h" />
