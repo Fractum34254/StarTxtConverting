@@ -60,6 +60,14 @@ int main()
 		outputLines.push_back(Layouter::Layout(stars.at(i)));
 	}
 
+	std::ofstream outputFile("SternenListeOutput.starlist");
+
+	for (size_t i = 0; i < outputLines.size(); i++)
+	{
+		outputFile.write(outputLines.at(i).c_str(), outputLines.at(i).size());
+		outputFile.put('\n');
+	}
+
 	std::cin.get();
 	return 0;
 }
