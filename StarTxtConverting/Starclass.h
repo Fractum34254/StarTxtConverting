@@ -7,6 +7,11 @@
 class Starclass
 {
 public:
+	Starclass()
+		:
+		main_class("Standard"),
+		sub_class(-1.0f)
+	{}
 	Starclass(std::string starclass)
 	{
 		const int firstDigit = Util::PositionOfFirstDigit(starclass);
@@ -31,11 +36,11 @@ public:
 		else //no digits
 		{
 			///Planet?
-			if (starclass.find("Planet") != std::string::npos)
+			if ((starclass.find("Planet") != std::string::npos) || (starclass.find("Gürtel") != std::string::npos))
 			{
-				main_class = "Planet";
+				main_class = "non-star";
 				sub_class = -1.0f;
-				isPlanet = true;
+				isStar = false;
 				return;
 			}
 			///Question mark?
@@ -51,11 +56,14 @@ public:
 			}
 			///Fail, unknown layout
 			std::cout << "Unknown Starclass layout: " << starclass << std::endl;
-			std::cin.get();
 		}
+	}
+	bool IsStar() const
+	{
+		return isStar;
 	}
 private:
 	std::string main_class;
 	float sub_class;
-	bool isPlanet = false;
+	bool isStar = true;
 };
