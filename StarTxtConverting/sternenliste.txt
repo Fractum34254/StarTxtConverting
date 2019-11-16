@@ -2,9 +2,9 @@
 		(Rigil Kentaurus)	(V645 Centauri)						-62° 40? 46?		
 1	4.2421	Alpha Centauri	Proxima Centauri b	Planet	0.01	0.00001	—	—	14h 29m 43s	768.70 ± 0.30	Zentaur
 		(Rigil Kentaurus)							-62° 40? 46?		
-1	4.3648	Alpha Centauri	? Centauri A	G2V	1.227	1.1	?0.01	4.38	14h 39m 36s	747.23 ± 1.17	Zentaur
+1	4.3648	Alpha Centauri	Alpha Centauri A	G2V	1.227	1.1	?0.01	4.38	14h 39m 36s	747.23 ± 1.17	Zentaur
 		(Rigil Kentaurus)	(HD 128620)						-60° 50? 02?		
-1	4.3648	Alpha Centauri	? Centauri B	K1V	0.865	0.907	1.35	5.71	14h 39m 35s	747.23 ± 1.17	Zentaur
+1	4.3648	Alpha Centauri	Alpha Centauri B	K1V	0.865	0.907	1.35	5.71	14h 39m 35s	747.23 ± 1.17	Zentaur
 		(Rigil Kentaurus)	(HD 128621)						-60° 50? 14?		
 2	5.9801	Barnards Pfeilstern	Barnards Pfeilstern	M3.8Ve	0.196	0.144	9.53	13.22	17h 57m 49s	545.40 ± 0.30	Schlangen-
 		(BD+04°3561a)	(BD+04°3561a)						+04° 41? 36?		träger
@@ -18,9 +18,9 @@
 		(CN Leonis)	(CN Leonis)						+07° 00? 52?		
 6	8.3067	Lalande 21185	Lalande 21185	M2Vn	0.4	0.46	7.47	10.44	11h 03m 20s	392.64 ± 0.67	Großer
 		(BD+36°2147)	(BD+36°2147)						+35° 58? 12?		Bär
-7	8.6009	Sirius	? Canis Majoris A	A1V	1.711	2.02	?1.43	1.47	06h 45m 09s	379.21 ± 1.58	Großer
+7	8.6009	Sirius	Alpha Canis Majoris A	A1V	1.711	2.02	?1.43	1.47	06h 45m 09s	379.21 ± 1.58	Großer
 		(Alpha Canis Majoris)	(Sirius A)						-16° 42? 58?		Hund
-7	8.6009	Sirius	? Canis Majoris B	DA1.9 VII	0.0084	0.978	8.44	11.34	06h 45m 09s	379.21 ± 1.58	Großer
+7	8.6009	Sirius	Alpha Canis Majoris B	DA1.9 VII	0.0084	0.978	8.44	11.34	06h 45m 09s	379.21 ± 1.58	Großer
 		(Alpha Canis Majoris)	(Sirius B)						-16° 42? 58?		Hund
 8	8.7278	Luyten 726-8	Luyten 726-8 A	M5.5Ve	0.14	0.102	12.54	15.4	01h 39m 01s	373.70 ± 2.70	Walfisch
 		(Gliese 65)	(BL Ceti)						-17° 57? 02?		
@@ -30,12 +30,12 @@
 		(V1216 Sagittarii)	(V1216 Sagittarii)						-23° 50? 11?		
 10	10.298	Ross 248	Ross 248	M5.5Ve	0.16	0.136	12.29	14.79	23h 41m 55s	316.72 ± 0.72	Andromeda
 		(HH Andromedae)	(HH Andromedae)						+44° 10? 41?		
-11	10.475	Epsilon Eridani	? Eridani	K2Ve	0.735	0.82	3.73	6.19	03h 32m 56s	311.37 ± 0.10	Eridanus
+11	10.475	Epsilon Eridani	Epsilon Eridani	K2Ve	0.735	0.82	3.73	6.19	03h 32m 56s	311.37 ± 0.10	Eridanus
 		(BD-09°697)	(Gliese 144)						-09° 27? 30?		
-11	10.475	Epsilon Eridani	? Eridani b	Planet		0.00148	—	—	03h 32m 56s	311.37 ± 0.10	Eridanus
+11	10.475	Epsilon Eridani	Epsilon Eridani b	Planet		0.00148	—	—	03h 32m 56s	311.37 ± 0.10	Eridanus
 		(BD-09°697)	(Gliese 144 b)						-09° 27? 30?		
 11	10.475	Epsilon Eridani	Trümmerscheibe	Gürtel	—	—	—	—	03h 32m 56s	311.37 ± 0.10	Eridanus
-		(BD-09°697)	? Eridani						-09° 27? 30?		
+		(BD-09°697)	Epsilon Eridani						-09° 27? 30?		
 12	10.521	WISE 1506+7027	WISE 1506+7027	T6		0.014	13.56 J	—	15h 06m 50s	310.00 ± 42.0	Kleiner
 									+70° 27? 36?		Bär
 13	10.685	Lacaille 9352	Lacaille 9352	M0.5Ve	0.459	0.503	7.34	9.75	23h 05m 42s	305.26 ± 0.70	Südlicher
@@ -58,26 +58,26 @@
 		(Gliese 820)	(ADS 14636 A)						+38° 44? 58?		
 18	11.409	61 Cygni	61 Cygni B	K7V	0.595	0.63	6.03	8.31	21h 06m 55s	285.88 ± 0.54	Schwan
 		(Gliese 820)	(ADS 14636 B)						+38° 44? 31?		
-19	11.437	Prokyon	? Canis Minoris A	F5V-IV	2.048	1.42	0.34	2.66	07h 39m 18s	285.17 ± 0.64	Kleiner
+19	11.437	Prokyon	Alpha Canis Minoris A	F5V-IV	2.048	1.42	0.34	2.66	07h 39m 18s	285.17 ± 0.64	Kleiner
 		(Alpha Canis Minoris)	(Prokyon A)						+05° 13? 30?		Hund
-19	11.437	Prokyon	? Canis Minoris B	DQZ VII	0.0123	0.602	10.7	12.98	07h 39m 18s	285.17 ± 0.64	Kleiner
+19	11.437	Prokyon	Alpha Canis Minoris B	DQZ0 VII	0.0123	0.602	10.7	12.98	07h 39m 18s	285.17 ± 0.64	Kleiner
 		(Alpha Canis Minoris)	(Prokyon B)						+05° 13? 27?		Hund
 20	11.654	Groombridge 34	Groombridge 34 A	M1.5Vn	0.3863	0.404	8.09	10.32	00h 18m 23s	279.87 ± 0.60	Andromeda
 		(Gliese 15)	(GX Andromedae)						+44° 01? 23?		
 20	11.654	Groombridge 34	Groombridge 34 B	M3.5Vn	0.19	0.163	11.06	13.3	00h 18m 23s	279.87 ± 0.60	Andromeda
 		(Gliese 15)	(GQ Andromedae)						+44° 01? 23?		
-21	11.815	Epsilon Indi	? Indi A	K5Ve	0.732	0.762	4.69	6.89	22h 03m 22s	276.06 ± 0.28	Indianer
+21	11.815	Epsilon Indi	Epsilon Indi A	K5Ve	0.732	0.762	4.69	6.89	22h 03m 22s	276.06 ± 0.28	Indianer
 		(Gliese 845)	(Gliese 845 A)						-56° 47? 10?		
-21	11.815	Epsilon Indi	? Indi B	T1	0.091	0.066	23.6	25.8	22h 04m 11s	276.06 ± 0.28	Indianer
+21	11.815	Epsilon Indi	Epsilon Indi B	T1	0.091	0.066	23.6	25.8	22h 04m 11s	276.06 ± 0.28	Indianer
 		(Gliese 845)	(Gliese 845 B)				12.29 J		-56° 46? 58?		
-21	11.815	Epsilon Indi	? Indi C	T6	0.092	0.047	31.3	33.5	22h 04m 11s	276.06 ± 0.28	Indianer
+21	11.815	Epsilon Indi	Epsilon Indi C	T6	0.092	0.047	31.3	33.5	22h 04m 11s	276.06 ± 0.28	Indianer
 		(Gliese 845)	(Gliese 845 C)				13.23 J		-56° 46? 58?		
 22	11.826	DX Cancri	DX Cancri	M6.5Ve	0.11	0.09	14.78	16.98	08h 29m 49s	275.80 ± 3.00	Krebs
 		(GJ 1111)	(GJ 1111)						+26° 46? 34?		
-23	11.905	Tau Ceti	? Ceti	G8.5Vp	0.773	0.77	3.49	5.68	01h 44m 04s	273.96 ± 0.17	Walfisch
+23	11.905	Tau Ceti	Tau Ceti	G8.5Vp	0.773	0.77	3.49	5.68	01h 44m 04s	273.96 ± 0.17	Walfisch
 		(BD?16°295)	(BD?16°295)						-15° 56? 15?		
 23	11.905	Tau Ceti	Trümmerscheibe	Gürtel	—	—	—	—	01h 44m 04s	273.96 ± 0.17	Walfisch
-		(BD?16°295)	? Ceti						-15° 56? 15?		
+		(BD?16°295)	Tau Ceti						-15° 56? 15?		
 24	12.042	GJ 1061	GJ 1061	M5.5V	0.145	0.113	13.09	15.26	03h 35m 60s	270.86 ± 1.29	Pendeluhr
 		(LHS 1565)	(LHS 1565)						-44° 30? 46?		
 25	12.121	YZ Ceti	YZ Ceti	M4.5V	0.24	0.18	12.02	14.17	01h 12m 31s	269.08 ± 2.99	Walfisch
@@ -100,7 +100,7 @@
 		(Gliese 860)	(HD 239960 A)						+57° 41? 45?		
 32	13.148	Krüger 60	Krüger 60 B	M4V	0.24	0.271	11.41	13.38	22h 27m 60s	248.06 ± 1.39	Kepheus
 		(Gliese 860)	(DO Cephei)						+57° 41? 45?		
-33	13.157	Gliese 563.2[1]	Gliese 563.2 A	M1V			11.72	13.67	14h 49m 33s	247.89 ± 44.9	Wasser-
+33	13.157	Gliese 563.2	Gliese 563.2 A	M1V			11.72	13.67	14h 49m 33s	247.89 ± 44.9	Wasser-
 		(HIP 72511)	(LHS 380)						-26° 06? 20?		schlange
 34	13.363	Ross 614	Ross 614 A	M4.5Ve	0.25	0.223	11.15	13.09	06h 29m 23s	244.07 ± 0.73	Einhorn
 		(V577 Monocerotis)	(LHS 1849)						-02° 48? 50?		
@@ -140,7 +140,7 @@
 		(V1581 Cygni)	(LHS 3495)						-44° 24? 55?		
 46	15.114	Gliese 440	Gliese 440	DQ6 VII	0.01	0.75	11.5	13.18	11h 45m 43s	215.80 ± 1.25	Fliege
 		(HIP 57367)	(LHS 43)						-64° 50? 29?		
-33	15.193	Gliese 563.2[1]	Gliese 563.2 B	M1.5V			12.07		14h 49m 32s	214.67 ± 43.9	Wasser-
+33	15.193	Gliese 563.2	Gliese 563.2 B	M1.5V			12.07		14h 49m 32s	214.67 ± 43.9	Wasser-
 		(HIP 72509)	(LHS 379)						-26° 06? 43?		schlange
 47	15.198	Gliese 876	Gliese 876	M3.5V	0.36	0.334	10.17	11.81	22h 53m 17s	214.60 ± 0.20	Wassermann
 		(Ross 780. IL Aquarii)	(Ross 780. IL Aquarii)						-14° 15? 49?		
@@ -164,7 +164,7 @@
 		(Gliese 380)	(Gliese 380)						+49° 27? 15?		Bär
 52	15.941	AD Leonis	AD Leonis	M4.5Ve	0.39	0.39	9.32	10.87	10h 19m 36s	204.60 ± 2.80	Löwe
 		(Gliese 388)	(Gliese 388)						+19° 52? 10?		
-53	16.066	HIP 82725[2]	HIP 82725	K0IV			11.72	13.33	16h 54m 33s	203.01 ± 29.3	Altar
+53	16.066	HIP 82725	HIP 82725	K0IV			11.72	13.33	16h 54m 33s	203.01 ± 29.3	Altar
 		(2MASS 1654-6224)	(CCDM 1654-6224 B)						-62° 24? 12?		
 54	16.067	2MASS 0817-6155	2MASS 0817-6155	T6	0.1	0.015	13.61 J	—	08h 17m 30s	203.00 ± 13.0	Kiel des
 		(DEN 0817-6155)	(DEN 0817-6155)						-61° 55? 16?		Schiffs
@@ -236,7 +236,7 @@
 		(HIP 103039)	(NLTT 50038)						-16° 58? 29?		
 78	18.708	2MASS 0415-0935	2MASS 0415-0935	T8		0.03	15.3 J	—	04h 15m 20s	174.34 ± 2.76	Eridanus
 									-09° 35? 07?		
-79	18.767	Alsafi	? Draconis	G9V	0.778	0.87	4.67	5.87	19h 32m 22s	173.79 ± 0.18	Drache
+79	18.767	Alsafi	Sigma Draconis	G9V	0.778	0.87	4.67	5.87	19h 32m 22s	173.79 ± 0.18	Drache
 		(Sigma Draconis)	(Gliese 764)						+69° 39? 40?		
 80	18.769	Gliese 229	Gliese 229 A	M1.5V	0.61	0.31	8.14	9.34	06h 10m 35s	173.77 ± 0.97	Hase
 		(LHS 1827)	(LHS 1827)						-21° 51? 53?		
@@ -268,9 +268,9 @@
 		(Wolf 498)	(Wolf 498 A)						-16° 08? 02?		
 88	19.374	GJ 1005	GJ 1005 B	M6V		0.11	14.02	15.15	00h 15m 28s	168.35 ± 0.90	Walfisch
 		(Wolf 498)	(Wolf 498 B)						-16° 08? 02?		
-89	19.387	Achird	? Cassiopeiae A	G3V	1.039	0.972	3.46	4.59	00h 49m 06s	168.23 ± 0.46	Kassiopeia
+89	19.387	Achird	Eta Cassiopeiae A	G3V	1.039	0.972	3.46	4.59	00h 49m 06s	168.23 ± 0.46	Kassiopeia
 		(Eta Cassiopeiae)	(Achird A)						+57° 48? 55?		
-89	19.387	Achird	? Cassiopeiae B	K7V	0.865	0.907	7.21	8.34	00h 49m 06s	168.23 ± 0.46	Kassiopeia
+89	19.387	Achird	Eta Cassiopeiae B	K7V	0.865	0.907	7.21	8.34	00h 49m 06s	168.23 ± 0.46	Kassiopeia
 		(Eta Cassiopeiae)	(Achird B)						+57° 48? 55?		
 90	19.4	36 Ophiuchi	36 Ophiuchi A	K1.5V	0.817	0.85	5.07	6.2	17h 15m 21s	168.12 ± 0.40	Schlangen-
 		(GJ 663)	(GJ 663 A. LHS 437)						-26° 36? 10?		träger
@@ -300,7 +300,7 @@
 		(Gliese 338)	(Gliese 338 A)						+52° 41? 12?		Bär
 98	19.92	ADS 7251	ADS 7251 B	K7V		0.6	7.7	8.77	09h 14m 25s	163.73 ± 2.52	Großer
 		(Gliese 338)	(Gliese 338 B)						+52° 41? 11?		Bär
-99	19.923	Delta Pavonis	? Pavonis	G8IV	1.22	0.991	3.55	4.62	20h 08m 44s	163.71 ± 0.17	Pfau
+99	19.923	Delta Pavonis	Delta Pavonis	G8IV	1.22	0.991	3.55	4.62	20h 08m 44s	163.71 ± 0.17	Pfau
 		(Gliese 780)	(HIP 99240)						-66° 10? 55?		
 100	19.959	QY Aurigae	QY Aurigae A	M4.5Ve		0.17	12.05	13.12	07h 10m 02s	163.41 ± 1.78	Fuhrmann
 		(Gliese 268)	(Gliese 268 A)						+38° 31? 46?		
@@ -378,9 +378,9 @@
 		(DEL 2)	(G 41-14 B)						+08° 28? 26?		schlange
 124	22.088	GJ 3522	GJ 3522 C	M? V		0.17	12.28	13.13	08h 58m 56s	147.66 ± 1.98	Wasser-
 		(DEL 2)	(G 41-14 C)						+08° 28? 26?		schlange
-125	22.102	Xi Bootis	? Bootis A	G7IV	0.83	0.94	4.67	5.51	14h 51m 23s	147.57 ± 0.72	Bärenhüter
+125	22.102	Xi Bootis	Xi Bootis A	G7IV	0.83	0.94	4.67	5.51	14h 51m 23s	147.57 ± 0.72	Bärenhüter
 		(Gliese 566)	(HD 131156 A)						+19° 06? 02?		
-125	22.102	Xi Bootis	? Bootis B	K4V	0.61	0.67	6.94	7.78	14h 51m 23s	147.57 ± 0.72	Bärenhüter
+125	22.102	Xi Bootis	Xi Bootis B	K4V	0.61	0.67	6.94	7.78	14h 51m 23s	147.57 ± 0.72	Bärenhüter
 		(Gliese 566)	(HD 131156 B)						+19° 06? 02?		
 126	22.165	EE Leonis	EE Leonis	M4V	0.32	0.21	11.65	12.49	10h 50m 52s	147.15 ± 2.98	Löwe
 		(Gliese 402)	(Gliese 402)						+06° 48? 29?		
@@ -460,7 +460,7 @@
 		(96 Piscium)	(HD 4628)						+05° 16? 50?		
 154	24.322	GJ 4274	GJ 4274	M4.5V	0.18	0.17	13.25	13.89	22h 23m 07s	134.10 ± 5.60	Wassermann
 		(L 788-34)	(LHS 3799)						-17° 36? 25?		
-155	24.327	Beta Hydri	? Hydri	G2V-IV	1.809	1.08	2.8	3.45	00h 25m 45s	134.07 ± 0.11	Wasser-
+155	24.327	Beta Hydri	Beta Hydri	G2V-IV	1.809	1.08	2.8	3.45	00h 25m 45s	134.07 ± 0.11	Wasser-
 		(HIP 2021)	(LHS 6)						-77° 15? 15?		schlange
 156	24.494	VX Arietis	VX Arietis	M3.5V		0.3			02h 44m 15s	133.16 ± 2.26	Widder
 		(Gliese 109)	(Gliese 109)						+25° 31? 24?		
@@ -468,15 +468,15 @@
 		(Gliese 68)	(Gliese 68)						+20° 16? 06?		
 158	24.597	GJ 1224	GJ 1224	M4.5V	0.18	0.15	13.61	14.22	18h 07m 33s	132.60 ± 3.70	Schlange
 		(LHS 3359)	(LHS 3359)						-15° 57? 47?		
-159	24.638	My Cassiopeiae	? Cassiopeiae A	G5VIp	0.791	0.74	5.16	5.77	01h 08m 16s	132.38 ± 0.82	Kassiopeia
-		(Marfak)[3]	(LHS 8. HIP 5336)						+54° 55? 13?		
-159	24.638	My Cassiopeiae	? Cassiopeiae B	M5VI	0.29	0.17	11	11.6	01h 08m 16s	132.38 ± 0.82	Kassiopeia
+159	24.638	My Cassiopeiae	My Cassiopeiae A	G5VIp	0.791	0.74	5.16	5.77	01h 08m 16s	132.38 ± 0.82	Kassiopeia
+		(Marfak)	(LHS 8. HIP 5336)						+54° 55? 13?		
+159	24.638	My Cassiopeiae	My Cassiopeiae B	M5VI	0.29	0.17	11	11.6	01h 08m 16s	132.38 ± 0.82	Kassiopeia
 		(Marfak)	(Giclas 53 B)						+54° 55? 13?		
-160	24.69	Fomalhaut[4]	? Piscis Austrini C	M4V			12.62		22h 48m 05s	?	Wassermann
+160	24.69	Fomalhaut	Alpha Piscis Austrini C	M4V			12.62		22h 48m 05s	?	Wassermann
 		(Alpha Piscis Austrini)	(Fomalhaut C)						-24° 22? 08?		
 160	24.69	Fomalhaut	Trümmerscheibe	Gürtel	—	—	—	—	22h 48m 05s	?	Wassermann
-		(Alpha Piscis Austrini)	? Piscis Austrini C						-24° 22? 08?		
-160	24.818	Fomalhaut	? Piscis Austrini B	K5Vp	0.629	0.725	6.48	7.08	22h 56m 24s	131.42 ± 0.62	Südlicher
+		(Alpha Piscis Austrini)	Alpha Piscis Austrini C						-24° 22? 08?		
+160	24.818	Fomalhaut	Alpha Piscis Austrini B	K5Vp	0.629	0.725	6.48	7.08	22h 56m 24s	131.42 ± 0.62	Südlicher
 		(Alpha Piscis Austrini)	(Fomalhaut B)						-31° 33? 56?		Fisch
 161	24.97	Gliese 514	Gliese 514	M1V					13h 29m 60s	130.62 ± 1.05	Jungfrau
 		(Ross 490. LHS 352)	(Ross 490. LHS 352)						+10° 22? 38?		
@@ -496,12 +496,12 @@
 		(G 184-19)	(LHS 3404)						+24° 47? 08?		
 164	25.116	Gliese 673	Gliese 673	K7V	0.564	0.66	7.54	8.1	17h 25m 45s	129.86 ± 0.73	Schlangen-
 		(Wolf 718. LHS 447)	(Wolf 718. LHS 447)						+02° 06? 41?		träger
-160	25.126	Fomalhaut[4]	? Piscis Austrini A	A3Va	1.842	1.92	1.16	7.08	22h 57m 39s	129.81 ± 0.47	Südlicher
+160	25.126	Fomalhaut	Alpha Piscis Austrini A	A3Va	1.842	1.92	1.16	7.08	22h 57m 39s	129.81 ± 0.47	Südlicher
 		(Alpha Piscis Austrini)	(Fomalhaut A)						-29° 37? 20?		Fisch
 160	25.126	Fomalhaut	Fomalhaut b	Planet	0.1	0.0001-	—	—	22h 57m 39s	129.81 ± 0.47	Südlicher
 		(Alpha Piscis Austrini)				0.0029			-29° 37? 20?		Fisch
 160	25.126	Fomalhaut	Trümmerscheibe	Gürtel	—	—	—	—	22h 57m 39s	129.81 ± 0.47	Südlicher
-		(Alpha Piscis Austrini)	? Piscis Austrini A						-29° 37? 20?		Fisch
+		(Alpha Piscis Austrini)	Alpha Piscis Austrini A						-29° 37? 20?		Fisch
 165	25.192	GJ 2005	GJ 2005 A	M5.5V		0.130-	15.42	16.04	00h 24m 44s	129.47 ± 2.48	Bildhauer
 		(LEI 1)	(LHS 1070 A)			0.16			-27° 08? 25?		
 165	25.192	GJ 2005	GJ 2005 B	M8.5V		0.077	18.69		00h 24m 44s	129.47 ± 2.48	Bildhauer
@@ -554,11 +554,11 @@
 		(LHS 417)	(AC +48°1595-89 A)						+48° 21? 10?		
 185	26.278	Gliese 623	Gliese 623 B	M2.5V					16h 24m 09s	124.12 ± 1.16	Herkules
 		(G 202-45)	(AC +48°1595-89 B)						+48° 21? 10?		
-186	26.279	Chi Draconis	? Draconis A	F7V	1.2	1.029	3.57	4.04	18h 21m 03s	124.11 ± 0.87	Drache
+186	26.279	Chi Draconis	Chi Draconis A	F7V	1.2	1.029	3.57	4.04	18h 21m 03s	124.11 ± 0.87	Drache
 		(Gliese 713)	(Gliese 713 A)						+72° 43? 58?		
-186	26.279	Chi Draconis	? Draconis B	K0V	0.73	0.748	5.67		18h 21m 03s	124.11 ± 0.87	Drache
+186	26.279	Chi Draconis	Chi Draconis B	K0V	0.73	0.748	5.67		18h 21m 03s	124.11 ± 0.87	Drache
 		(Gliese 713)	(Gliese 713 B)						+72° 43? 58?		
-187	26.316	Pi3 Orionis	?3 Orionis	F6V	1.323	1.236	3.16	3.65	04h 49m 50s	123.94 ± 0.17	Orion
+187	26.316	Pi^3 Orionis	Pi^3 Orionis	F6V	1.323	1.236	3.16	3.65	04h 49m 50s	123.94 ± 0.17	Orion
 		(Gliese 178)	(Tabit)						+06° 57? 41?		
 188	26.373	Gliese 686	Gliese 686	M1V	0.51	0.47	9.58	10.17	17h 37m 53s	123.67 ± 1.61	Herkules
 		(LHS 452)	(LHS 452)						+18° 35? 30?		
@@ -598,11 +598,11 @@
 		(BB Capricorni)	(Gliese 831 B)						-09° 47? 26?		
 203	27.087	SCR 1138-7721	SCR 1138-7721	M5.5V			14.78		11h 38m 17s	120.41 ± 1.01	Chamäleon
 		(2MASS 1138-7721)	(SSSPM 1138-7722)						-77° 21? 48?		
-204	27.105	My Herculis	? Herculis A	G5IV	1.76	1.1	3.42	3.8	17h 46m 28s	120.33 ± 0.16	Herkules
+204	27.105	My Herculis	My Herculis A	G5IV	1.76	1.1	3.42	3.8	17h 46m 28s	120.33 ± 0.16	Herkules
 		(Gliese 695)	(Gliese 695 A)						+27° 43? 14?		
-204	27.105	My Herculis	? Herculis B	M3.5V	0.48	0.31	10.35	10.73	17h 46m 25s	120.33 ± 0.16	Herkules
+204	27.105	My Herculis	My Herculis B	M3.5V	0.48	0.31	10.35	10.73	17h 46m 25s	120.33 ± 0.16	Herkules
 		(Gliese 695)	(Gliese 695 B)						+27° 43? 01?		
-204	27.105	My Herculis	? Herculis C	M4Vk	0.48	0.31	10.8	11.18	17h 46m 25s	120.33 ± 0.16	Herkules
+204	27.105	My Herculis	My Herculis C	M4Vk	0.48	0.31	10.8	11.18	17h 46m 25s	120.33 ± 0.16	Herkules
 		(Gliese 695)	(Gliese 695 C)						+27° 43? 01?		
 205	27.18	GJ 1227	GJ 1227	M4.5V					18h 22m 27s	120.00 ± 2.20	Drache
 		(LHS 465)	(LHS 465)						+62° 03? 03?		
@@ -623,7 +623,7 @@
 212	27.438	Gliese 438	Gliese 438	K0V-VI	0.39	0.4	10.36	10.74	11h 43m 20s	118.90 ± 15.0	Zentaur
 		(LHS 2447)	(LHS 2447)						-51° 50? 26?		
 213	27.526	Asterion	Asterion	G0V	1.08	1.11	4.24	4.61	12h 33m 45s	118.49 ± 0.20	Jagdhunde
-		(? Canum Ven.)	(Gliese 475)						+41° 21? 27?		
+		(Beta Canum Ven.)	(Gliese 475)						+41° 21? 27?		
 214	27.593	GJ 3146	GJ 3146	M6V			15.79	16.15	02h 16m 30s	118.20 ± 6.80	Widder
 		(LHS 1375)	(LP 469-206)						+13° 35? 14?		
 215	27.63	GJ 3076	GJ 3076	M5V			13.59		01h 11m 25s	?	Fische
@@ -632,7 +632,7 @@
 		(LHS 2065)	(LP 666-9)						-03° 29? 32?		schlange
 217	27.723	SCR 0640-0552	SCR 0640-0552	M2V			10.24		06h 40m 14s	?	Einhorn
 		(BD-05°1737)	(BD-05°1737)				6.84 J		-05° 52? 23?		
-218	27.77	Gliese 745[5]	Gliese 745 A	M2V-VI	0.332	0.348	10.77	11.1	19h 07m 06s	117.45 ± 2.28	Pfeil
+218	27.77	Gliese 745	Gliese 745 A	M2V-VI	0.332	0.348	10.77	11.1	19h 07m 06s	117.45 ± 2.28	Pfeil
 		(LDS 1017)	(LHS 3432. Ross 730)						+20° 53? 17?		
 219	27.808	2MASS 0835-0819	2MASS 0835-0819	L5			13.17	—	08h 35m 43s	117.30 ± 11.2	Wasser-
 		(GJ 1057)	(GJ 1057)						-08° 19? 24?		schlange
@@ -652,11 +652,11 @@
 		(LTT 17993)	(G 89-32 A)						+07° 04? 43?		Hund
 223	27.972	GJ 3454	GJ 3454 B	M5V		0.13			07h 36m 25s	116.60 ± 0.97	Kleiner
 		(LTT 17993)	(G 89-32 B)						+07° 04? 43?		Hund
-224	27.975	Gliese 185[6]	Gliese 185 A	K7V			8.66		05h 02m 28s	116.59 ± 1.51	Hase
+224	27.975	Gliese 185	Gliese 185 A	K7V			8.66		05h 02m 28s	116.59 ± 1.51	Hase
 		(HIC 23452)	(HD 32450)	M0V?					-21° 15? 24?		
 225	28.001	Gliese 450	Gliese 450	M1Ve		0.49	9.72	10.1	11h 51m 07s	116.48 ± 1.19	Großer
 		(G 148-13)	(NLTT 28756)						+35° 16? 19?		Bär
-226	28.006	Zeta Tucanae	? Tucanae	F9.5V	1.08	0.99	4.23	4.67	00h 20m 04s	116.46 ± 0.16	Tukan
+226	28.006	Zeta Tucanae	Zeta Tucanae	F9.5V	1.08	0.99	4.23	4.67	00h 20m 04s	116.46 ± 0.16	Tukan
 		(Gliese 17)	(HIP 1599)						-64° 52? 29?		
 227	28.1	Gliese 877	Gliese 877	M3V		0.34	10.38	10.7	22h 55m 46s	116.07 ± 1.19	Oktant
 		(LHS 531)	(LHS 531)						-75° 27? 31?		
@@ -668,9 +668,9 @@
 		(LHS 517)							-04° 38? 27?		
 230	28.117	WISE 1647+5632	WISE 1647+5632	L9p			16.59 J	—	16h 47m 16s	116.00 ± 2.90	Drache
 		(2MASS 1647+5632)	(2MASS 1647+5632)						+56° 32? 05?		
-231	28.256	Chi1 Orionis	?1 Orionis A	G0IV-V	1.081	0.979	4.39	4.67	05h 54m 23s	115.43 ± 0.27	Orion
+231	28.256	Chi^1 Orionis	Chi^1 Orionis A	G0IV-V	1.081	0.979	4.39	4.67	05h 54m 23s	115.43 ± 0.27	Orion
 		(Gliese 222)	(Gliese 222 A)						+20° 16? 34?		
-231	28.256	Chi1 Orionis	?1 Orionis B	M6V		0.15			05h 54m 23s	115.43 ± 0.27	Orion
+231	28.256	Chi^1 Orionis	Chi^1 Orionis B	M6V		0.15			05h 54m 23s	115.43 ± 0.27	Orion
 		(Gliese 222)	(Gliese 222 B)						+20° 16? 34?		
 232	28.266	GJ 1207	GJ 1207	M4V			12.33	12.37	16h 57m 06s	115.39 ± 1.51	Schlangen-
 		(L 988-42)	(LHS 3255)						-04° 20? 56?		träger
@@ -678,7 +678,7 @@
 		(LHS 316)	(LHS 316)						+48° 22? 40?		Bär
 234	28.314	HIP 31292	L 32-8	M3.5V			11.41	11.74	06h 33m 47s	115.19 ± 10.6	Tafelberg
 		(LDS 169)	(2MASS 0633-7537)						-75° 37? 30?		
-235	28.359	Gliese 867[7]	Gliese 867 A	M1Ve			9.08		22h 38m 46s	115.01 ± 1.32	Wassermann
+235	28.359	Gliese 867	Gliese 867 A	M1Ve			9.08		22h 38m 46s	115.01 ± 1.32	Wassermann
 			(FK Aquarii)						-20° 37? 16?		
 236	28.361	WISE 0647-6232	WISE 0647-6232	Y1		0.0172	22.65 J	—	06h 47m 23s	115.00 ± 12.0	Maler
 									-62° 32? 40?		
@@ -688,7 +688,7 @@
 		(HD 50281)	(LHS 1875)						-05° 10? 25?		
 238	28.408	Gliese 250	Gliese 250 B	M2.5V	0.5	0.49	10.08	10.28	06h 52m 18s	114.81 ± 0.44	Einhorn
 		(HD 50281)	(LHS 1876)						-05° 10? 25?		
-218	28.548	Gliese 745[5]	Gliese 745 B	M2V-VI	0.339	0.352	10.77	11.1	19h 07m 13s	114.25 ± 2.30	Pfeil
+218	28.548	Gliese 745	Gliese 745 B	M2V-VI	0.339	0.352	10.77	11.1	19h 07m 13s	114.25 ± 2.30	Pfeil
 		(LDS 1017)	(LHS 3433. Ross 731)						+20° 52? 37?		
 239	28.56	2MASS 0036+1821	2MASS 0036+1821	L3.5			12.47 J	—	00h 36m 16s	114.20 ± 0.80	Fische
 									+18° 21? 10?		
@@ -702,7 +702,7 @@
 		(LDS 6210)	(LHS 1952)						-00° 00? 14?		Hund
 241	28.61	GJ 3667	GJ 3667	DC8-9 VII			13.79	14.07	11h 29m 18s	114.00 ± 13.0	Löwe
 		(WD 1126+185)	(2MASS 1129+1816)						+18° 16? 46?		
-243	28.702	2MASS 0652+4710[8]	2MASS 0652+4710 B	L6.5		0.0706		—	06h 52m 21s	?	Fuhrmann
+243	28.702	2MASS 0652+4710	2MASS 0652+4710 B	L6.5		0.0706		—	06h 52m 21s	?	Fuhrmann
 									+47° 10? 35?		
 244	28.702	2MASS 1800+0134	2MASS 1800+0134	L7.5		0.040—	14.30 J	—	18h 00m 26s	?	Schlangen-
 		(WISE 1800+0134)	(WISE 1800+0134)			0.074			+01° 34? 57?		träger
@@ -718,15 +718,15 @@
 		(HIP 84720)	(GJ 666 D)						-46° 37? 39?		
 247	28.736	Ross 41	Ross 41	M3.5V			12.44		05h 28m 00s	113.50 ± 5.01	Orion
 		(GJ 203. LHS 1761)	(HIP 25578)						+09° 38? 38?		
-248	28.812	Xi Ursae Majoris	? Ursae Majoris A	F8.5Ve	1.01	1.05	3.79	4.71	11h 18m 11s	113.20 ± 4.60	Großer
+248	28.812	Xi Ursae Majoris	Xi Ursae Majoris A	F8.5Ve	1.01	1.05	3.79	4.71	11h 18m 11s	113.20 ± 4.60	Großer
 		(Alula Australis)	(Alula Australis Aa)						+31° 31? 45?		Bär
-248	28.812	Xi Ursae Majoris	? Ursae Majoris Ab	M3V					11h 18m 11s	113.20 ± 4.60	Großer
+248	28.812	Xi Ursae Majoris	Xi Ursae Majoris Ab	M3V					11h 18m 11s	113.20 ± 4.60	Großer
 		(Alula Australis)	(Alula Australis Ab)						+31° 31? 46?		Bär
-248	28.812	Xi Ursae Majoris	? Ursae Majoris B	G2Ve	0.78	0.9	4.73	5.23	11h 18m 11s	113.20 ± 4.60	Großer
+248	28.812	Xi Ursae Majoris	Xi Ursae Majoris B	G2Ve	0.78	0.9	4.73	5.23	11h 18m 11s	113.20 ± 4.60	Großer
 		(Alula Australis)	(Alula Australis Ba)						+31° 31? 46?		Bär
-248	28.812	Xi Ursae Majoris	? Ursae Majoris Bb	M9V?				—	11h 18m 11s	113.20 ± 4.60	Großer
+248	28.812	Xi Ursae Majoris	Xi Ursae Majoris Bb	M9V?				—	11h 18m 11s	113.20 ± 4.60	Großer
 		(Alula Australis)	(Alula Australis Bb)	L0?					+31° 31? 46?		Bär
-248	28.812	Xi Ursae Majoris	? Ursae Majoris Bc	T8.5			15.94 J	—	11h 18m 39s	113.20 ± 4.60	Großer
+248	28.812	Xi Ursae Majoris	Xi Ursae Majoris Bc	T8.5			15.94 J	—	11h 18m 39s	113.20 ± 4.60	Großer
 		(Alula Australis)	(WDS J11182+3132D)						+31° 25? 44?		Bär
 249	28.868	Ross 695	Ross 695	M2V		0.174	11.27		12h 24m 53s	112.98 ± 2.51	Rabe
 		(Gliese 465)	(LHS 45)						-18° 14? 32?		
@@ -734,7 +734,7 @@
 		(Gliese 791.2)	(Gliese 791.2 A)						+09° 41? 20?		
 250	28.889	HU Delphini	HU Delphini B	M? V					20h 29m 48s	112.90 ± 0.30	Delphin
 		(Gliese 791.2)	(Gliese 791.2 B)						+09° 41? 20?		
-251	28.971	Gliese 433[9]	Gliese 433	M1.5V	0.48	0.48	9.81	10.01	11h 35m 27s	112.58 ± 1.44	Wasser-
+251	28.971	Gliese 433	Gliese 433	M1.5V	0.48	0.48	9.81	10.01	11h 35m 27s	112.58 ± 1.44	Wasser-
 		(HIP 56528)	(LHS 2429)						-32° 32? 24?		schlange
 252	29.036	V374 Pegasi	V374 Pegasi	M4V			11.49		22h 01m 13s	112.33 ± 3.05	Pegasus
 		(GJ 4247)	(GJ 4247)						+28° 18? 25?		
@@ -746,13 +746,13 @@
 		(GJ 785. HD 192310)	(Gliese 785 c)						-27° 01? 59?		
 254	29.087	SZ Ursae Majoris	SZ Ursae Majoris	M1V		0.289	10.74		11h 20m 05s	112.13 ± 1.03	Großer
 		(Gliese 424)	(Gliese 424)						+65° 50? 47?		Bär
-251	29.098	Gliese 433[9]	Gliese 433 b	Planet			—	—	11h 35m 27s	112.09 ± 1.43	Wasser-
+251	29.098	Gliese 433	Gliese 433 b	Planet			—	—	11h 35m 27s	112.09 ± 1.43	Wasser-
 		(HIP 56528)							-32° 32? 24?		schlange
 255	29.11	GJ 3707	GJ 3707	M3.5V			12.12		12h 10m 06s	?	Rabe
 		(LP 734-32)	(LHS 2520)						-15° 04? 16?		
-256	29.116	Gamma Leporis	? Leporis A	F6V	1.33	1.23	3.59	3.83	05h 44m 28s	112.02 ± 0.18	Hase
+256	29.116	Gamma Leporis	Gamma Leporis A	F6V	1.33	1.23	3.59	3.83	05h 44m 28s	112.02 ± 0.18	Hase
 		(Gliese 216)	(HR 1983)						-22° 26? 54?		
-256	29.116	Gamma Leporis	? Leporis B	K2V	1.022	0.83	6.18	6.42	05h 44m 28s	112.02 ± 0.18	Hase
+256	29.116	Gamma Leporis	Gamma Leporis B	K2V	1.022	0.83	6.18	6.42	05h 44m 28s	112.02 ± 0.18	Hase
 		(Gliese 216)	(AK Leporis. HR 1982)						-22° 26? 54?		
 257	29.121	GJ 3128	GJ 3128	M5.5V			15.61		02h 02m 16s	112.00 ± 1.90	Fische
 		(LHS 1326)	(LHS 1326)						+10° 20? 14?		
@@ -770,17 +770,17 @@
 		(WDS J06337-7538)	(2MASS 0633-7537)						-75° 37? 48?		
 263	29.431	Gliese 357	Gliese 357	M2.5V			10.91		09h 36m 02s	110.82 ± 1.92	Wasser-
 		(LHS 2157)	(LHS 2157)						-21° 39? 39?		schlange
-264	29.487	Delta Eridani	? Eridani	K1III-IV	2.327	1.33	3.54	3.77	03h 43m 15s	110.61 ± 0.22	Eridanus
+264	29.487	Delta Eridani	Delta Eridani	K1III-IV	2.327	1.33	3.54	3.77	03h 43m 15s	110.61 ± 0.22	Eridanus
 		(Rana)	(Gliese 150)						-09° 45? 48?		
 265	29.506	GJ 2012	GJ 2012	DQ9 VII			14.53	14.55	00h 41m 26s	110.54 ± 1.18	Walfisch
 		(L 651-57)	(LHS 1126)						-22° 21? 02?		
 266	29.543	2MASS 0439-2353	2MASS 1425-3650	L6.5			14.41 J	—	04h 39m 01s	110.40 ± 4.00	Eridanus
 		(2MUCD 10312)	(2MUCD 10312)						-23° 53? 08?		
-235	29.548	Gliese 867[7]	Gliese 867 B	M3.5Ve			11.43		22h 38m 45s	110.38 ± 1.54	Wassermann
+235	29.548	Gliese 867	Gliese 867 B	M3.5Ve			11.43		22h 38m 45s	110.38 ± 1.54	Wassermann
 			(FL Aquarii)						-20° 36? 52?		
 267	29.613	2MASS 0727+1710	2MASS 0727+1710	T7		0.0286	15.19 J	—	07h 21m 18s	110.14 ± 2.34	Zwillinge
 		(LEHPM 2-461)	(LEHPM 2-461)						+17° 10? 01?		
-268	29.651	Gliese 176[10]	Gliese 176 b	Planet		0.0265	—	—	04h 42m 56s	110.00 ± 2.00	Stier
+268	29.651	Gliese 176	Gliese 176 b	Planet		0.0265	—	—	04h 42m 56s	110.00 ± 2.00	Stier
 		(HD 285968)							+18° 57? 29?		
 269	29.653	Groombridge 1830	Groombridge 1830	K1V	0.681	0.661	6.44	6.62	11h 52m 59s	109.99 ± 0.41	Großer
 		(Argelander's Stern)	(Gliese 451)	G8VIp					+37° 43? 07?		Bär
@@ -798,11 +798,11 @@
 		(HIP 40501)	(G 113-20)						+01° 18? 09?		schlange
 274	29.759	2MASS 0355+1133	2MASS 0355+1133	L5		0.021	14.05 J	—	03h 55m 23s	109.60 ± 1.30	Stier
 									+11° 33? 44?		
-275	29.767	HIP 82724[2]	HIP 82724	M? Vp			11.77		16h 54m 32s	109.57 ± 20.1	Altar
+275	29.767	HIP 82724	HIP 82724	M? Vp			11.77		16h 54m 32s	109.57 ± 20.1	Altar
 		(2MASS 1654-6224)	(CCDM 1654-6224 A)						-62° 23? 59?		
-276	29.775	Beta Comae Berenices	? Comae Berenices	F9.5V	1.106	1.15	4.26	4.43	13h 11m 52s	109.54 ± 0.17	Haar der
+276	29.775	Beta Comae Berenices	Beta Comae Berenices	F9.5V	1.106	1.15	4.26	4.43	13h 11m 52s	109.54 ± 0.17	Haar der
 		(Gliese 502)	(LHS 348)	G0V					+27° 52? 41?		Berenike
-277	29.81	Kappa1 Ceti	?1 Ceti	G0V	0.95	1.037	4.84	5.16	03h 19m 22s	109.41 ± 0.27	Walfisch
+277	29.81	Kappa^1 Ceti	Kappa^1 Ceti	G0V	0.95	1.037	4.84	5.16	03h 19m 22s	109.41 ± 0.27	Walfisch
 		(Gliese 137)	(HIP 15457)						+03° 22? 13?		
 278	29.818	Gliese 84	Gliese 84	M2.5V	0.54		10.19	10.39	02h 05m 05s	109.38 ± 1.92	Walfisch
 		(HIP 9724)	(LHS 149)						-17° 36? 53?		
@@ -826,11 +826,11 @@
 		(G 42-24)	(LHS 2206)						+20° 56? 46?		
 286	30.144	WISE 0059-0114	WISE 0059-0114	T8.5			18.08 J	—	00h 59m 11s	108.20 ± 5.00	Walfisch
 		(CFBDS 0059-0114)	(CFBDS 0059-0114)						-01° 14? 01?		
-287	30.208	Gamma Pavonis	? Pavonis	F9V	1.15	1.21	4.22	4.4	21h 26m 27s	107.97 ± 0.19	Pfau
+287	30.208	Gamma Pavonis	Gamma Pavonis	F9V	1.15	1.21	4.22	4.4	21h 26m 27s	107.97 ± 0.19	Pfau
 		(Gliese 827)	(LHS 3674)						-65° 21? 58?		
 288	30.241	Gliese 190	Gliese 190	M3.5V			10.28	10.45	05h 08m 35s	107.85 ± 2.10	Hase
 		(HIP 23932)	(LHS 203)						-18° 10? 19?		
-268	30.247	Gliese 176[10]	Gliese 176	M2.5Ve	0.53	0.49	9.95	10.12	04h 42m 56s	107.83 ± 2.85	Stier
+268	30.247	Gliese 176	Gliese 176	M2.5Ve	0.53	0.49	9.95	10.12	04h 42m 56s	107.83 ± 2.85	Stier
 		(HD 285968)	(LHS 196)						+18° 57? 29?		
 289	30.253	GJ 3135	GJ 3135	M2.5V			12.17	12.32	02h 05m 49s	107.81 ± 2.92	Chemischer
 		(HIP 9786)	(LHS 1339)						-30° 10? 36?		Ofen
@@ -942,9 +942,9 @@
 		(G 144-25)	(LHS 495)						+15° 29? 57?		
 334	32.363	GJ 3119	GJ 3119	M5V			14.6		01h 51m 04s	100.78 ± 1.89	Walfisch
 		(G 159-3)	(LHS 1302)						-06° 07? 05?		
-335	32.486	WDS 01026+6221[11]	Wolf 46	M1.5V			9.56		01h 02m 39s	100.40 ± 1.52	Kassiopeia
+335	32.486	WDS 01026+6221	Wolf 46	M1.5V			9.56		01h 02m 39s	100.40 ± 1.52	Kassiopeia
 		(Wolf 46/Wolf 47)	(Gliese 49)						+62° 20? 42?		
-336	32.541	GJ 678.1[12]	GJ 678.1 A	M1V			9.32		17h 30m 23s	100.23 ± 1.07	Schlangen-
+336	32.541	GJ 678.1	GJ 678.1 A	M1V			9.32		17h 30m 23s	100.23 ± 1.07	Schlangen-
 		(GJ 9592)	(BD+05°3409 A)						+05° 32? 55?		träger
 337	32.583	GJ 1235	GJ 1235	M4V			13.42		19h 21m 39s	100.10 ± 3.50	Fuchs
 		(G 185-18)	(LHS 476)	K9V?					+20° 52? 03?		
@@ -982,7 +982,7 @@
 		(Gliese 22)	(LHS 115)						+67° 14? 04?		
 352	32.836	Gliese 75	HR 511	K0V	0.82	0.92	5.63	5.64	01h 47m 45s	99.33 ± 0.53	Kassiopeia
 		(V987 Cassiopeiae)	(V987 Cassiopeiae)						+63° 51? 09?		
-353	32.925	Alpha Mensae	? Mensae	G7V	0.99	0.96	5.09	5.05	06h 10m 14s	99.06 ± 0.14	Tafelberg
+353	32.925	Alpha Mensae	Alpha Mensae	G7V	0.99	0.96	5.09	5.05	06h 10m 14s	99.06 ± 0.14	Tafelberg
 		(Gliese 231)	(Gliese 231)						-74° 45? 11?		
 354	32.942	WISE 1150+6302	WISE 1150+6302	T8			17.72 J	—	11h 50m 14s	?	Großer
 		(EQ J1150+6302)	(EQ J1150+6302)						+63° 02? 41?		Bär
@@ -994,11 +994,11 @@
 		(EQ J1217+1626)	(EQ J1217+1626 A)			0.0334			+16° 26? 40?		Berenike
 356	32.945	WISE 1217+1626	WISE 1217+1626 B	Y0		0.0053-	20.08 J	—	12h 17m 57s	99.00 ± 16.0	Haar der
 		(EQ J1217+1626)	(EQ J1217+1626 B)			0.0191			+16° 26? 42?		Berenike
-358	32.962	Gliese 436[13]	Gliese 436 b	Planet		0.00007	—	—	11h 42m 11s	98.95 ± 2.07	Löwe
+358	32.962	Gliese 436	Gliese 436 b	Planet		0.00007	—	—	11h 42m 11s	98.95 ± 2.07	Löwe
 		(Ross 905)							+26° 42? 24?		
 359	32.975	Gliese 172	Gliese 172	M0Ve			8.63	8.6	04h 37m 41s	98.91 ± 1.01	Giraffe
 		(HIP 21553)	(LHS 1688)	K8Ve?					+52° 53? 37?		
-358	33.075	Gliese 436[13]	Gliese 436	M3.5V	0.42	0.41	10.67	10.63	11h 42m 11s	98.61 ± 2.33	Löwe
+358	33.075	Gliese 436	Gliese 436	M3.5V	0.42	0.41	10.67	10.63	11h 42m 11s	98.61 ± 2.33	Löwe
 		(Ross 905)	(LHS 310)						+26° 42? 24?		
 360	33.129	Gliese 453	Gliese 453	K4V	0.72	0.78	6.97	6.92	11h 57m 56s	98.45 ± 0.57	Wasser-
 		(HIP 58345)	(LHS 319)						-27° 42? 25?		schlange
@@ -1014,7 +1014,7 @@
 		(L 989-20)	(LPM 629 B)						-01° 51? 07?		träger
 365	33.312	DP Draconis	DP Draconis	M3Ve			10.9		11h 49m 03s	97.91 ± 1.83	Drache
 		(Gliese 487)	(HIP 62556)						+66° 06? 37?		
-366	33.349	AT Microscopii[14]	AT Microscopii B	M4Ve		0.41	11.34		20h 41m 51s	97.80 ± 4.70	Mikroskop
+366	33.349	AT Microscopii	AT Microscopii B	M4Ve		0.41	11.34		20h 41m 51s	97.80 ± 4.70	Mikroskop
 		(LDS 720)	(Gliese 799 B)						-32° 26? 10?		
 367	33.383	2MASS 0559-1404	2MASS 0559-1404	T4.5		0.0286	13.80 J	—	05h 59m 19s	97.70 ± 1.30	Hase
 		(WISE 0559-1404)	(WISE 0559-1404)						-14° 04? 49?		
@@ -1022,7 +1022,7 @@
 		(HIP 67164)	(LHS 2794)						-17° 58? 06?		
 369	33.414	Gliese 846	Gliese 846	M0V			9.15		22h 02m 10s	97.61 ± 1.53	Wassermann
 		(HD 209290)	(LHS 3745)						+01° 24? 01?		
-370	33.528	Gliese 649[15]	Gliese 649 b	Planet		0.00031	—	—	16h 58m 09s	97.28 ± 1.32	Herkules
+370	33.528	Gliese 649	Gliese 649 b	Planet		0.00031	—	—	16h 58m 09s	97.28 ± 1.32	Herkules
 		(BD+25°3173)							+25° 44? 39?		
 371	33.594	2MASS 0857+5708	2MASS 0857+5708	L7			15.04 J	—	08h 57m 58s	?	Großer
 		(2MUCD 20320)	(2MUCD 20320)						+57° 08? 51?		Bär
@@ -1036,16 +1036,16 @@
 		(LHS 287)	(LHS 287)						+37° 36? 40?		
 374	33.729	ULAS 1335+1130	ULAS 1335+1130	T8.5		0.014–	17.90 J	—	13h 35m 53s	96.70 ± 3.20	Jungfrau
 		(WISE 1335+1130)	(WISE 1335+1130)			0.03			+11° 30? 05?		
-370	33.739	Gliese 649[15]	Gliese 649	M2V	0.52	0.54	9.66	9.63	16h 58m 09s	96.67 ± 1.39	Herkules
+370	33.739	Gliese 649	Gliese 649	M2V	0.52	0.54	9.66	9.63	16h 58m 09s	96.67 ± 1.39	Herkules
 		(BD+25°3173)	(LHS 3257)						+25° 44? 39?		
 376	33.764	HR 857	HR 857	K1V			6.05	5.97	02h 52m 32s	96.60 ± 0.40	Eridanus
 		(Gliese 117)	(HIP 13402)						-12° 46? 11?		
 377	33.778	V857 Centauri	V857 Centauri	M4Ve			11.54	11.47	11h 31m 47s	96.56 ± 2.39	Zentaur
 		(Gliese 431)	(LHS 2423)						-41° 02? 47?		
 378	33.785	Pollux	Pollux	K0III	8.8	2.04	1.14	1.08	07h 45m 19s	96.54 ± 0.27	Zwillinge
-		(Gliese 286)	(? Geminorum)						+28° 01? 34?		
+		(Gliese 286)	(Beta Geminorum)						+28° 01? 34?		
 378	33.785	Pollux	Pollux b	Planet		0.0022	—	—	07h 45m 19s	96.54 ± 0.27	Zwillinge
-		(Gliese 286)	(? Geminorum b)						+28° 01? 34?		
+		(Gliese 286)	(Beta Geminorum b)						+28° 01? 34?		
 379	33.834	GJ 3147	GJ 3147	M5V			15.99		02h 17m 10s	96.40 ± 1.20	Dreieck
 		(LHS 1378)	(LHS 1378)						+35° 26? 33?		
 380	33.92	WISE 1322-2340	WISE 1322-2340	T8			17.21 J	—	13h 22m 34s	?	Wasser-
@@ -1066,7 +1066,7 @@
 		(HIP 76901)	(LHS 54)						-19° 28? 18?		
 387	34.124	Gliese 341	Gliese 341	M0V			9.47	9.37	09h 21m 38s	95.58 ± 0.91	Kiel des
 		(HD 304636)	(LHS 2128)						-60° 16? 55?		Schiffs
-335	34.153	WDS 01026+6221[11]	Wolf 47	M3Vpe			13.66		01h 03m 20s	95.50 ± 7.30	Kassiopeia
+335	34.153	WDS 01026+6221	Wolf 47	M3Vpe			13.66		01h 03m 20s	95.50 ± 7.30	Kassiopeia
 		(Wolf 46/Wolf 47)	(V338 Cassiopeiae)	M7V?					+62° 21? 56?		
 388	34.178	GJ 3412	GJ 3412	M3V			11.01	10.88	06h 54m 04s	95.43 ± 2.36	Luchs
 		(HIP 33142)	(LHS 221)						+60° 52? 18?		
@@ -1080,7 +1080,7 @@
 		(V780 Tauri)	(V780 Tauri B)						+24° 48? 29?		
 391	34.332	V546 Persei	V546 Persei	M4.5V			14.29		04h 30m 25s	95.00 ± 14.0	Perseus
 		(Gliese 170)	(LHS 1674)						+39° 51? 00?		
-393	34.379	Iota Persei	? Persei	F9.5V	1.412	1.35	4.05	3.94	03h 09m 04s	94.87 ± 0.23	Perseus
+393	34.379	Iota Persei	Iota Persei	F9.5V	1.412	1.35	4.05	3.94	03h 09m 04s	94.87 ± 0.23	Perseus
 		(Gliese 124)	(LHS 166)	G0V					+49° 36? 48?		
 394	34.43	2MASS 1047+2124	2MASS 1047+2124	T6.5			15.46 J	—	10h 47m 54s	94.73 ± 3.81	Löwe
 									+21° 24? 24?		
@@ -1088,7 +1088,7 @@
 		(BD+63°869)	(LHS 2211)						+62° 47? 18?		Bär
 396	34.477	Gliese 488	Gliese 488	K7Ve		0.041	8.47	8.39	12h 50m 44s	94.60 ± 0.82	Jungfrau
 		(HD 111631)	(HD 111631)						-00° 46? 05?		
-397	34.481	LDS 585[16]	Wolf 636	M3.5V	0.5	0.28	10.07	9.95	17h 05m 14s	94.59 ± 1.85	Schlangen-
+397	34.481	LDS 585	Wolf 636	M3.5V	0.5	0.28	10.07	9.95	17h 05m 14s	94.59 ± 1.85	Schlangen-
 		(Gliese 653/654)	(Gliese 654)						-05° 05? 39?		träger
 398	34.573	2MASS 0602+3910	2MASS 0602+3910	L1			20.88	—	06h 02m 30s	?	Fuhrmann
 		(LSR 0602+3910)	(LSR 0602+3910)				12.30 J		+39° 10? 59?		
@@ -1108,13 +1108,13 @@
 		(WISE 0243-2453)	(WISE 0243-2453)						-24° 53? 30?		Ofen
 406	34.846	GJ 1232	GJ 1232	M4.5V			13.55		19h 09m 51s	93.60 ± 2.80	Pfeil
 		(LHS 3438)	(LHS 3438)						+17° 40? 07?		
-407	34.857	Gliese 617[17]	Gliese 617 A	M1V			8.61	8.47	16h 16m 43s	93.57 ± 0.95	Drache
+407	34.857	Gliese 617	Gliese 617 A	M1V			8.61	8.47	16h 16m 43s	93.57 ± 0.95	Drache
 		(ENG 57)	(LHS 3175)						+67° 14? 20?		
-366	34.883	AT Microscopii[14]	AT Microscopii A	M4.5Ve		0.45	11.36		20h 41m 51s	93.50 ± 3.67	Mikroskop
+366	34.883	AT Microscopii	AT Microscopii A	M4.5Ve		0.45	11.36		20h 41m 51s	93.50 ± 3.67	Mikroskop
 		(LDS 720)	(Gliese 799 A)						-32° 26? 07?		
-408	34.899	WISE 0734?7157	WISE 0734?7157	Y0			20.41 J	—	07h 34m 44s	?	Fliegender
+408	34.899	WISE 0734-7157	WISE 0734-7157	Y0			20.41 J	—	07h 34m 44s	?	Fliegender
 									-71° 57? 44?		Fisch
-397	34.92	LDS 585[16]	Wolf 635	K5V	0.73	0.68	7.71	7.56	17h 05m 03s	93.40 ± 0.94	Schlangen-
+397	34.92	LDS 585	Wolf 635	K5V	0.73	0.68	7.71	7.56	17h 05m 03s	93.40 ± 0.94	Schlangen-
 		(Gliese 653/654)	(Gliese 653)						-05° 03? 59?		träger
 409	34.92	Gliese 508	Gliese 508 A	M0.5Ve			8.54	8.46	13h 19m 46s	93.40 ± 2.21	Jagdhunde
 		(BD+48°2108)	(Hip 21553)						+47° 46? 41?		
@@ -1122,17 +1122,17 @@
 		(BD+48°2108)	(NSV 6191)						+47° 46? 41?		
 410	34.95	V816 Herculis	V816 Herculis	M3.5V			12.81		18h 42m 45s	?	Herkules
 		(GJ 4071)	(L 1209-6)						+13° 54? 17?		
-411	34.958	Gliese 669[18]	Gliese 669 B	M5Ve			13.02		17h 19m 53s	93.30 ± 1.90	Herkules
+411	34.958	Gliese 669	Gliese 669 B	M5Ve			13.02		17h 19m 53s	93.30 ± 1.90	Herkules
 		(Ross 867)	(G 170-34)						+26° 30? 03?		
-412	34.995	Zeta Herculis	? Herculis A	G0IV	2.560–	1.45	2.8	2.65	16h 41m 17s	93.32 ± 0.47	Herkules
+412	34.995	Zeta Herculis	Zeta Herculis A	G0IV	2.560–	1.45	2.8	2.65	16h 41m 17s	93.32 ± 0.47	Herkules
 		(STF 2084)	(Gliese 635 A)	F9IV	2.61				+31° 36? 10?		
-412	34.995	Zeta Herculis	? Herculis B	G7V	0.915	0.98	5.4		16h 41m 18s	93.32 ± 0.47	Herkules
+412	34.995	Zeta Herculis	Zeta Herculis B	G7V	0.915	0.98	5.4		16h 41m 18s	93.32 ± 0.47	Herkules
 		(STF 2084)	(Gliese 635 B)						+31° 36? 07?		
-413	35.007	GJ 9492[19]	GJ 9492 A	M1.5V			10.83		14h 42m 22s	93.17 ± 1.30	Kleiner
+413	35.007	GJ 9492	GJ 9492 A	M1.5V			10.83		14h 42m 22s	93.17 ± 1.30	Kleiner
 		(HIP 71898)	(WDS 14424+6603 A)						+66° 03? 21?		Bär
 414	35.029	Gliese 145	Gliese 145	M2.5V			11.48	11.32	03h 32m 56s	93.11 ± 1.94	Pendeluhr
 		(HIP 16536)	(HIP 16536)						-44° 42? 07?		
-407	35.037	Gliese 617[17]	Gliese 617 B	M3V			10.69	10.54	16h 16m 43s	93.09 ± 1.48	Drache
+407	35.037	Gliese 617	Gliese 617 B	M3V			10.69	10.54	16h 16m 43s	93.09 ± 1.48	Drache
 		(ENG 57)	(EW Draconis)						+67° 14? 20?		
 415	35.071	Gliese 413.1	Gliese 413.1	M2V			10.45	10.28	11h 09m 31s	93.00 ± 1.69	Becher
 		(HIP 54532)	(LHS 2358)						-24° 35? 55?		
@@ -1146,11 +1146,11 @@
 		(HD 13445)	(HD 13445 b)						-50° 49? 25?		
 418	35.169	Gliese 86	Gliese 86 B	DA10 VII		0.07			02h 10m 26s	92.74 ± 0.32	Eridanus
 		(HD 13445)	(HD 13445 B)						-50° 49? 25?		
-419	35.173	Delta Trianguli	? Trianguli A	G0.5Ve	0.98	1.1	4.87	4.69	02h 17m 03s	92.73 ± 0.39	Dreieck
+419	35.173	Delta Trianguli	Delta Trianguli A	G0.5Ve	0.98	1.1	4.87	4.69	02h 17m 03s	92.73 ± 0.39	Dreieck
 		(Gliese 92)	(LHS 154)						+34° 13? 27?		
-419	35.173	Delta Trianguli	? Trianguli B	K4V-	0.64	0.8	6.5		02h 17m 03s	92.73 ± 0.39	Dreieck
+419	35.173	Delta Trianguli	Delta Trianguli B	K4V-	0.64	0.8	6.5		02h 17m 03s	92.73 ± 0.39	Dreieck
 		(Gliese 92)		G9V					+34° 13? 27?		
-413	35.214	GJ 9492[19]	GJ 9492 B	L0			11.44 J		14h 42m 22s	92.62 ± 1.52	Kleiner
+413	35.214	GJ 9492	GJ 9492 B	L0			11.44 J		14h 42m 22s	92.62 ± 1.52	Kleiner
 		(HIP 71898)	(WDS 14424+6603 B)						+66° 03? 20?		Bär
 420	35.283	Wolf 1478	Wolf 1478	M3.5V			11.9		14h 31m 01s	92.44 ± 3.94	Waage
 		(GJ 553.1)	(LHS 2932)						-12° 17? 46?		
@@ -1172,7 +1172,7 @@
 		(BD+10°1032)	(BD+10°1032 A)						+10° 19? 05?		
 426	35.587	Gliese 228	Gliese 228 B	M? V			12.65		06h 10m 55s	91.65 ± 3.50	Orion
 		(BD+10°1032)	(BD+10°1032 B)						+10° 19? 07?		
-427	35.646	Beta Virginis	? Virginis	F9V	1.681	1.25	3.6	3.41	11h 50m 42s	91.50 ± 0.22	Jungfrau
+427	35.646	Beta Virginis	Beta Virginis	F9V	1.681	1.25	3.6	3.41	11h 50m 42s	91.50 ± 0.22	Jungfrau
 		(Zavijava)	(Gliese 449)						+01° 45? 53?		
 428	35.669	Gliese 519	Gliese 519	K5V			9.07	8.87	13h 37m 29s	91.44 ± 1.16	Jagdhunde
 		(BD+36°2393)	(HIP 66459)						+35° 43? 04?		
@@ -1182,19 +1182,19 @@
 		(LDS 678)	(LP 692-15)						-07° 39? 44?		
 429	35.841	GJ 4333	GJ 4333	M4V			11.71	11.5	23h 21m 37s	91.00 ± 2.89	Pegasus
 		(HIP 115332)	(LHS 543)						+17° 17? 25?		
-431	35.841	36 Ursae Majoris[20]	36 Ursae Majoris B	K7V			8.76		10h 30m 25s	91.00 ± 13.0	Großer
+431	35.841	36 Ursae Majoris	36 Ursae Majoris B	K7V			8.76		10h 30m 25s	91.00 ± 13.0	Großer
 		(Gliese 394)	(LDS 2863 B)						+55° 59? 57?		Bär
 432	35.877	Denebola	Denebola A	A3Va	1.728	1.78	2.13	1.92	11h 49m 04s	90.91 ± 0.52	Löwe
-		(? Leonis)	(Gliese 448)						+14° 34? 19?		
+		(Beta Leonis)	(Gliese 448)						+14° 34? 19?		
 432	35.877	Denebola	Trümmerscheibe	Gürtel	—	—	—	—	11h 49m 04s	90.91 ± 0.52	Löwe
-		(? Leonis)	? Leonis						+14° 34? 19?		
+		(Beta Leonis)	Beta Leonis						+14° 34? 19?		
 432	35.877	Gliese 688	Gliese 688	K2.5V	0.84	0.78	6.53	6.32	17h 39m 17s	90.91 ± 0.67	Schlangen-
 		(HIP 86400)	(HD 160346)						+03° 33? 19?		träger
 432	35.877	GJ 1129	GJ 1129	M3.5V			12.6		09h 44m 47s	?	Wasser-
 		(LHS 273)	(LHS 273)						-18° 12? 49?		schlange
 432	35.877	2MASS 0340-6724	2MASS 0340-6724	L7			14.74 J	—	03h 40m 09s	?	Kleine Was-
 		(2MUCD 10202)	(2MUCD 10202)						-67° 24? 05?		serschlange
-243	35.877	2MASS 0652+4710[8]	2MASS 0652+4710 A	L3.5		0.0754	13.51 J	—	06h 52m 21s	?	Fuhrmann
+243	35.877	2MASS 0652+4710	2MASS 0652+4710 A	L3.5		0.0754	13.51 J	—	06h 52m 21s	?	Fuhrmann
 									+47° 10? 35?		
 432	35.877	2MASS 0758+3247	2MASS 0758+3247	T2			14.95 J	—	07h 58m 40s	?	Zwillinge
 		(WISE 0758+3247)	(WISE 0758+3247)						+32° 47? 25?		
@@ -1222,7 +1222,7 @@
 		(Gliese 27)	(HD 3651 b)						+21° 15? 02?		
 445	36.071	54 Piscium	54 Piscium B	T7.5	0.082	0.051	16.31 J	—	00h 39m 22s	90.42 ± 0.32	Fische
 		(Gliese 27)	(HD 3651 B)						+21° 15? 02?		
-446	36.091	LDS 905[21]	LDS 905 A	M5Ve			12.05	11.44	08h 31m 38s	90.37 ± 8.22	Krebs
+446	36.091	LDS 905	LDS 905 A	M5Ve			12.05	11.44	08h 31m 38s	90.37 ± 8.22	Krebs
 		(Gliese 2069)	(CU Cancri)						+19° 23? 39?		
 447	36.111	Gliese 505	Gliese 505 A	K2V	0.82	0.79	6.66	6.44	13h 16m 51s	90.32 ± 0.74	Haar der
 		(HD 115404)	(ADS 8841 A)						+17° 01? 02?		Berenike
@@ -1236,15 +1236,15 @@
 		(2MASS 0645+3900)	(NLTT 16928)						+39° 00? 06?		
 449	36.2	GJ 4078	GJ 4078	M3.5V			12.7		18h 49m 51s	?	Pfau
 		(L 207-41)	(LHS 3413)						-57° 26? 49?		
-452	36.215	GJ 1148[22]	GJ 1148	M4V	0.4	0.34	11.88	11.66	11h 41m 45s	90.06 ± 2.75	Großer
+452	36.215	GJ 1148	GJ 1148	M4V	0.4	0.34	11.88	11.66	11h 41m 45s	90.06 ± 2.75	Großer
 		(Ross 1003)	(LHS 2443)						+42° 45? 07?		Bär
-453	36.232	GJ 2036[23]	GJ 2036 A	M3Ve			10.99		04h 53m 31s	90.02 ± 1.98	Schwertfisch
+453	36.232	GJ 2036	GJ 2036 A	M3Ve			10.99		04h 53m 31s	90.02 ± 1.98	Schwertfisch
 		(CD-56°1032)	(HIP 22738)						-55° 51? 37?		
 454	36.24	GJ 4281	GJ 4281	M6.5V			17.14		22h 28m 54s	90.00 ± 4.90	Wassermann
 		(LP 760-3)	(LHS 523)						-13° 25? 18?		
-455	36.292	Theta Persei	? Persei A	F8V	1.319	1.138	4.11	3.88	02h 44m 12s	89.87 ± 0.22	Perseus
+455	36.292	Theta Persei	Theta Persei A	F8V	1.319	1.138	4.11	3.88	02h 44m 12s	89.87 ± 0.22	Perseus
 		(Gliese 107)	(Gliese 107 A)						+49° 13? 42?		
-455	36.292	Theta Persei	? Persei B	M1.6V		0.430-	9.87	9.37	02h 44m 10s	89.87 ± 0.22	Perseus
+455	36.292	Theta Persei	Theta Persei B	M1.6V		0.430-	9.87	9.37	02h 44m 10s	89.87 ± 0.22	Perseus
 		(Gliese 107)	(Gliese 107 B)			0.51			+49° 13? 54?		
 456	36.336	Gliese 320	Gliese 320	K2.5V	0.75	0.65	6.56	6.33	08h 43m 18s	89.76 ± 0.37	Segel des
 		(HIP 42808)	(HD 74576)						-38° 52? 57?		Schiffs
@@ -1252,7 +1252,7 @@
 		(HD 85512)	(LHS 2201)						-43° 30? 10?		Schiffs
 457	36.393	Gliese 370	Gliese 370 b	Planet		0.00001	—	—	09h 51m 07s	89.62 ± 0.67	Segel des
 		(HD 85512)	(HD 85512 b)						-43° 30? 10?		Schiffs
-453	36.483	GJ 2036[23]	GJ 2036 B	M3Ve			13.92		04h 53m 31s	89.40 ± 3.50	Schwertfisch
+453	36.483	GJ 2036	GJ 2036 B	M3Ve			13.92		04h 53m 31s	89.40 ± 3.50	Schwertfisch
 		(CD-56°1032)	(LDS 131 B)						-55° 51? 32?		
 458	36.524	GJ 3967	GJ 3967	M4V			13.69		16h 40m 06s	89.30 ± 4.60	Schlangen-
 		(LP 625-34)	(NLTT 43307)						+00° 42? 19?		träger
@@ -1274,13 +1274,13 @@
 		(V2689 Orionis)	(HIP 26335)	M0V					+11° 19? 40?		
 466	36.696	Gliese 2	Gliese 2	M2Ve	0.618		9.97	9.67	00h 05m 11s	88.88 ± 1.42	Andromeda
 		(HIP 428)	(LHS 1014)						+45° 47? 12?		
-467	36.705	Gamma Serpentis	? Serpentis	F6IV	1.55	1.3	3.84	3.58	15h 56m 27s	88.86 ± 0.18	Schlange
+467	36.705	Gamma Serpentis	Gamma Serpentis	F6IV	1.55	1.3	3.84	3.58	15h 56m 27s	88.86 ± 0.18	Schlange
 		(Ainalhai)	(Gliese 603)						+15° 39? 42?		
 468	36.717	Arcturus	Arcturus	K0IIIpe	25.4	1.08	-0.04	-0.30	14h 15m 40s	88.83 ± 0.54	Bärenhüter
-		(Alpha Bootis)	(? Boötis)						+19° 10? 57?		
+		(Alpha Bootis)	(Alpha Boötis)						+19° 10? 57?		
 469	36.725	Gliese 361	Gliese 361	M1.5V			10.37	10.11	09h 41m 10s	88.81 ± 1.68	Löwe
 		(HIP 47513)	(LHS 2173)						+13° 12? 34?		
-452	36.725	GJ 1148[22]	GJ 1148 b	Planet		0.00029	—	—	11h 41m 45s	88.81 ± 2.14	Großer
+452	36.725	GJ 1148	GJ 1148 b	Planet		0.00029	—	—	11h 41m 45s	88.81 ± 2.14	Großer
 		(Ross 1003)	(HIP 57050 b)						+42° 45? 07?		Bär
 470	36.856	LDS 4016	LP 213-67 A	M8V			17.36		10h 47m 13s	?	Großer
 		(WDS 10472+4027)	(WDS 1047+4027 Aa)						+40° 26? 44?		Bär
@@ -1300,7 +1300,7 @@
 		(Robertson 115)	(CNS N1 211)						+11° 32? 06?		
 475	37.021	2MASS 2224-0158	2MASS 2224-0158	L4.5			14.07 J	—	22h 24m 44s	88.10 ± 1.10	Wassermann
 		(2MUCD 12128)	(2MUCD 12128)						-01° 58? 52?		
-476	37.034	Gliese 360/362[24]	Gliese 362	M3V			11.36	11.05	09h 42m 52s	88.07 ± 2.41	Großer
+476	37.034	Gliese 360/362	Gliese 362	M3V			11.36	11.05	09h 42m 52s	88.07 ± 2.41	Großer
 		(OSV 3)	(LHS 2178)						+70° 02? 22?		Bär
 477	37.063	2MASS 1546-3325	2MASS 1546-3325	T5.5			15.62 J	—	15h 46m 27s	88.00 ± 1.90	Wolf
 		(WISE 1546-3325)	(WISE 1546-3325)						-33° 25? 11?		
@@ -1314,7 +1314,7 @@
 		(Gliese 356)	(HR 3815 B)						+35° 48? 39?		
 480	37.156	Gliese 169	Gliese 169	M0.5V	0.69	0.66	8.3	8.02	04h 29m 00s	87.78 ± 0.97	Stier
 		(HIP 20917)	(HD 28343)						+21° 55? 21?		
-481	37.169	Mufrid	? Boötis	G0IV	2.672	1.71	2.68	2.41	13h 54m 41s	87.75 ± 1.24	Bärenhüter
+481	37.169	Mufrid	Eta Boötis	G0IV	2.672	1.71	2.68	2.41	13h 54m 41s	87.75 ± 1.24	Bärenhüter
 		(Eta Bootis)	(Gliese 534 A)						+18° 23? 52?		
 482	37.182	WISE 0627-1114	WISE 0627-1114	T6			15.49 J	—	06h 27m 20s	?	Großer
 		(EQ 0627-1114)	(EQ 0627-1114)						-11° 14? 29?		Hund
@@ -1360,7 +1360,7 @@
 		(WISE 2359-7335)	(WISE 2359-7335)						-73° 35? 06?		
 502	37.662	GJ 1167	GJ 1167 A	M4.8V			14.21		13h 09m 35s	86.60 ± 14.8	Haar der
 		(LDS 1365)	(G 164-47)						+28° 59? 07?		Berenike
-411	37.806	Gliese 669[18]	Gliese 669 A	M4Ve			11.29	10.98	17h 19m 54s	86.27 ± 4.10	Herkules
+411	37.806	Gliese 669	Gliese 669 A	M4Ve			11.29	10.98	17h 19m 54s	86.27 ± 4.10	Herkules
 		(Ross 868)	(HIP 84794)						+26° 30? 03?		
 503	37.834	WISE 0031+5749	WISE 0031+5749	L9			14.95 J	—	00h 31m 09s	?	Kassiopeia
 		(2MASS 0031+5749)	(2MASS 0031+5749)						+57° 49? 36?		
@@ -1368,7 +1368,7 @@
 							12.28 J		+20° 00? 32?		
 503	37.837	2MASS 0746+2000	2MASS 0746+2000 B	L1.5		0.0601	12.79 J	—	07h 46m 43s	86.20 ± 4.60	Zwillinge
 									+20° 00? 32?		
-503	37.834	2MASS 2255-5713[25]	2MASS 2255-5713 B	L8		0.0706		—	22h 55m 19s	?	Tukan
+503	37.834	2MASS 2255-5713	2MASS 2255-5713 B	L8		0.0706		—	22h 55m 19s	?	Tukan
 									-57° 13? 06?		
 503	37.834	WISE 2340-0745	WISE 2340-0745	T7			16.15	—	23h 40m 27s	?	Wassermann
 		(EQ 2340-0745)	(EQ 2340-0745)						-07° 45? 07?		
@@ -1382,17 +1382,17 @@
 		(LP 525-39)	(NLTT 1741)						+07° 29? 27?		
 509	37.9	GJ 3442	GJ 3442	M4.5V			13.65		07h 28m 13s	86.08 ± 1.38	Achterdeck
 		(L 744-10)	(LHS 1918)						-18° 47? 36?		des Schiffs
-512	37.983	Zeta Doradus[26]	? Doradus A	F9V	1	1.07	4.71	4.38	05h 05m 31s	85.87 ± 0.18	Schwertfisch
+512	37.983	Zeta Doradus	Zeta Doradus A	F9V	1	1.07	4.71	4.38	05h 05m 31s	85.87 ± 0.18	Schwertfisch
 		(Gliese 189)	(HIP 23693)						-57° 28? 22?		
 512	37.983	Gliese 118	Gliese 118	M2.5V			11.38		02h 52m 22s	85.87 ± 1.99	Kassiopeia
 		(HIP 13389)	(LHS 160)						-63° 40? 47?		
 512	37.997	2MASS 0828-1309	2MASS 0828-1309	L2		0.0735	12.80 J	—	08h 28m 34s	?	Wasser-
-		(SSSPM 0829?1309)	(SSSPM 0829?1309)						-13° 09? 20?		schlange
-512	38.027	Zeta Doradus[26]	? Doradus B	K7Vk		0.53	9.02	8.56	05h 05m 47s	85.77 ± 0.89	Schwertfisch
+		(SSSPM 0829-1309)	(SSSPM 0829-1309)						-13° 09? 20?		schlange
+512	38.027	Zeta Doradus	Zeta Doradus B	K7Vk		0.53	9.02	8.56	05h 05m 47s	85.77 ± 0.89	Schwertfisch
 		(Gliese 189)	(CD-57°1079)						-57° 33? 14?		
 515	38.093	GJ 2106	GJ 2106	M2V			10.19	9.85	14h 13m 13s	85.62 ± 1.94	Zentaur
 		(HIP 69454)	(LTT 5557)						-56° 44? 31?		
-516	38.111	Gamma Virginis[27]	? Virginis A	F0IV	1.2	1.56	3.48	3.12	12h 41m 40s	85.58 ± 0.60	Jungfrau
+516	38.111	Gamma Virginis	Gamma Virginis A	F0IV	1.2	1.56	3.48	3.12	12h 41m 40s	85.58 ± 0.60	Jungfrau
 		(Porrima)	(HR 4825)						-01° 26? 58?		
 517	38.129	Gliese 494	DT Virginis	M2Ve			9.76	9.47	13h 00m 47s	85.54 ± 1.53	Jungfrau
 		(BD+13°2618)	(Ross 458 A)						+12° 22? 33?		
@@ -1400,9 +1400,9 @@
 		(BD+13°2618)	(Ross 458 B)						+12° 22? 33?		
 517	38.129	Gliese 494	Gliese 494 (AB)c	T8.5p	1.07	0.0134	16.70 J		13h 00m 42s	85.54 ± 1.53	Jungfrau
 		(BD+13°2618)	(WISE 1300+1221)						+12° 21? 15?		
-518	38.245	Iota Pegasi	? Pegasi A	F5V	1.526	1.33	3.84	3.49	22h 07m 01s	85.28 ± 0.63	Pegasus
+518	38.245	Iota Pegasi	Iota Pegasi A	F5V	1.526	1.33	3.84	3.49	22h 07m 01s	85.28 ± 0.63	Pegasus
 		(Gliese 848)	(STT 596 A)						+25° 20? 42?		
-518	38.245	Iota Pegasi	? Pegasi B	G9V	0.73	0.82	6.68	6.33	22h 07m 01s	85.28 ± 0.63	Pegasus
+518	38.245	Iota Pegasi	Iota Pegasi B	G9V	0.73	0.82	6.68	6.33	22h 07m 01s	85.28 ± 0.63	Pegasus
 		(Gliese 848)	(STT 596 B)						+25° 20? 42?		
 519	38.326	Gliese 585	Gliese 585	M4.5V			13.68		15h 23m 51s	85.10 ± 2.90	Schlange
 		(Ross 508)	(LHS 396)						+17° 27? 57?		
@@ -1413,12 +1413,12 @@
 522	38.398	V1285 Aquilae	V1285 Aquilae	M3V			10.19	9.84	18h 55m 27s	84.94 ± 1.72	Adler
 		(Gliese 735)	(HIP 92871)						+08° 24? 09?		
 523	38.417	2MASS 1254-0122	2MASS 1254-0122	T2			14.89 J	—	12h 54m 54s	84.90 ± 1.90	Jungfrau
-		(SDSS 1254?0122)	(SDSS 1254?0122)						-01° 22? 47?		
+		(SDSS 1254-0122)	(SDSS 1254-0122)						-01° 22? 47?		
 524	38.466	Gliese 572	Gliese 572	M0V			9.15	8.79	15h 00m 56s	84.79 ± 1.07	Bärenhüter
 		(BD+45°2247)	(HIP 73470)	K7V					+45° 25? 34?		
 525	38.48	Gliese 542	Gliese 542	K3IV	0.79	0.82	6.66	6.3	14h 19m 05s	84.76 ± 0.69	Zentaur
 		(HIP 69972)	(LHS 2892)						-59° 22? 45?		
-516	38.585	Gamma Virginis[27]	? Virginis B	F0IV	1.2	1.5	3.5	3.14	12h 41m 40s	84.53 ± 1.18	Jungfrau
+516	38.585	Gamma Virginis	Gamma Virginis B	F0IV	1.2	1.5	3.5	3.14	12h 41m 40s	84.53 ± 1.18	Jungfrau
 		(Porrima)	(HR 4826)						-01° 26? 58?		
 526	38.598	GJ 3266	GJ 3266	M4V			13.71		04h 12m 17s	84.50 ± 2.90	Giraffe
 		(2MASS 0412+6443)	(LHS 1638)						+64° 43? 56?		
@@ -1428,13 +1428,13 @@
 		(HIP 3937)	(LDS 3203 B)						+24° 49? 02?		
 528	38.64	GJ 3612	GJ 3612	M4V			11.93		10h 35m 27s	84.41 ± 13.0	Großer
 		(G 286-34)	(LHS 283)						+69° 27? 00?		Bär
-529	38.704	Deneb Algedi	? Capricorni Aa	A7IIIm	1.91	2	2.83	2.46	21h 47m 02s	84.27 ± 0.19	Steinbock
+529	38.704	Deneb Algedi	Delta Capricorni Aa	A7IIIm	1.91	2	2.83	2.46	21h 47m 02s	84.27 ± 0.19	Steinbock
 		(Delta Capricorni)	(Deneb Algedi A)	F0-2					-16° 07? 38?		
-529	38.704	Deneb Algedi	? Capricorni Ab	K1V		0.9			21h 47m 02s	84.27 ± 0.19	Steinbock
+529	38.704	Deneb Algedi	Delta Capricorni Ab	K1V		0.9			21h 47m 02s	84.27 ± 0.19	Steinbock
 		(Delta Capricorni)	(Deneb Algedi B)						-16° 07? 38?		
-530	38.708	Gliese 277[28]	Gliese 277 A	M3.5Ve			10.52	10.15	07h 31m 58s	84.26 ± 3.45	Luchs
+530	38.708	Gliese 277	Gliese 277 A	M3.5Ve			10.52	10.15	07h 31m 58s	84.26 ± 3.45	Luchs
 		(LDS 6206)	(VV Lyncis)						+36° 13? 10?		
-531	38.722	Gliese 414[29]	Gliese 414 A	K7V			8.31	7.94	11h 11m 05s	84.23 ± 0.86	Großer
+531	38.722	Gliese 414	Gliese 414 A	K7V			8.31	7.94	11h 11m 05s	84.23 ± 0.86	Großer
 		(ADS 8083)	(LHS 2367)						+30° 26? 46?		Bär
 532	38.8	GJ 3954	GJ 3954	M4.5V			14.31		16h 26m 48s	?	Schlangen-
 		(LP 805-10)	(LHS 3197)						-17° 23? 34?		träger
@@ -1450,7 +1450,7 @@
 		(G 79-3)	(LHS 1504)						+10° 01? 26?		
 538	38.874	2MASS 0624-4521	2MASS 0624-4521	L5			14.48 J	—	06h 24m 46s	83.90 ± 4.50	Achterdeck
 		(2MUCD 20244)	(2MUCD 20244)						-45° 21? 55?		des Schiffs
-531	38.9	Gliese 414[29]	Gliese 414 B	M2V			10.72		11h 11m 02s	?	Großer
+531	38.9	Gliese 414	Gliese 414 B	M2V			10.72		11h 11m 02s	?	Großer
 		(ADS 8083)	(LHS 2366)						+30° 26? 44?		Bär
 539	38.944	Gliese 96	Gliese 96	M0.5V			9.34	8.96	02h 22m 15s	83.75 ± 1.14	Andromeda
 		(BD+47°612)	(HIP 11048)						+47° 52? 48?		
@@ -1458,11 +1458,11 @@
 		(WISE 1828-4849)	(WISE 1828-4849)						-48° 49? 05?		
 541	39.061	GJ 1223	GJ 1223	M5V			14.89		18h 02m 46s	83.50 ± 3.90	Herkules
 		(G 182-36)	(LHS 457)						+37° 31? 05?		
-542	39.07	Gliese 275.2[30]	Gliese 275.2 Aa	DA10 VII	0.0149		15.26		07h 30m 47s	83.48 ± 4.00	Luchs
+542	39.07	Gliese 275.2	Gliese 275.2 Aa	DA10 VII	0.0149		15.26		07h 30m 47s	83.48 ± 4.00	Luchs
 		(GIC 75)	(EGGR 52 A)						+48° 10? 28?		
 542	39.07	Gliese 275.2	Gliese 275.2 Ab	DA? VII			15.56		07h 30m 47s	83.48 ± 4.00	Luchs
 		(GIC 75)	(EGGR 52 B)						+48° 10? 28?		
-530	39.079	Gliese 277[28]	Gliese 277 B	M4.5Ve			11.82	11.43	07h 31m 57s	83.46 ± 4.07	Luchs
+530	39.079	Gliese 277	Gliese 277 B	M4.5Ve			11.82	11.43	07h 31m 57s	83.46 ± 4.07	Luchs
 		(LDS 6206)	(BL Lyncis)						+36° 13? 47?		
 543	39.093	Gliese 842	Gliese 842	M0.5V			9.74	9.35	21h 59m 35s	83.43 ± 1.77	Indianer
 		(HIP 108569)	(LHS 3741)						-59° 45? 10?		
@@ -1488,21 +1488,21 @@
 		(2MUCD 20744)	(2MUCD 20744)						+27° 21? 23?		
 544	39.139	WISE 1812+2007	WISE 1812+2007	T9			18.54 J	—	18h 12m 43s	?	Herkules
 									+20° 07? 46?		
-503	39.139	2MASS 2255-5713[25]	2MASS 2255-5713 A	L6		0.0754	14.08	—	22h 55m 19s	?	Tukan
+503	39.139	2MASS 2255-5713	2MASS 2255-5713 A	L6		0.0754	14.08	—	22h 55m 19s	?	Tukan
 									-57° 13? 06?		
 554	39.149	Wolf 654	Wolf 654	DC9 VII			11.51		17h 11m 35s	83.31 ± 1.98	Herkules
 		(GJ 3992)	(HIP 84099)						+38° 26? 34?		
-555	39.164	Zeta Reticuli[31]	?1 Reticuli	G4V	0.84	0.958	5.54	5.12	03h 17m 46s	83.28 ± 0.20	Netz
+555	39.164	Zeta Reticuli	Zeta^1 Reticuli	G4V	0.84	0.958	5.54	5.12	03h 17m 46s	83.28 ± 0.20	Netz
 		(Gliese 136/138)	(Gliese 136)						-62° 34? 41?		
 556	39.201	GJ 3959	GJ 3959	M5V			14.76		16h 31m 19s	83.20 ± 2.60	Herkules
 		(G 180-60)	(G 180-60)						+40° 51? 52?		
-555	39.244	Zeta Reticuli[31]	?2 Reticuli	G0V	0.88	0.985	5.24	4.83	03h 18m 13s	83.11 ± 0.19	Netz
+555	39.244	Zeta Reticuli	Zeta^2 Reticuli	G0V	0.88	0.985	5.24	4.83	03h 18m 13s	83.11 ± 0.19	Netz
 		(Gliese 136/138)	(Gliese 138)						-62° 30? 23?		
 557	39.253	Gliese 268.3	Gliese 268.3	M0V			10.75	10.3	07h 16m 20s	83.09 ± 2.84	Zwillinge
 		(G 109-55)	(HIP 35191)						+27° 08? 33?		
 558	39.296	GJ 1243	GJ 1243	M4V			12.83		19h 51m 09s	83.00 ± 2.00	Schwan
 		(G 208-42)	(NLTT 48343)						+46° 29? 00?		
-559	39.3	Ross 948[6]	Ross 948 A	M2V	0.32	0.21			12h 28m 53s	?	Jungfrau
+559	39.3	Ross 948	Ross 948 A	M2V	0.32	0.21			12h 28m 53s	?	Jungfrau
 		(GJ 3728)	(NLTT 30870)						-10° 39? 49?		
 559	39.3	Ross 948	Ross 948 B	M3.5V	0.32	0.21	10.4	10.6	12h 28m 53s	?	Jungfrau
 		(GJ 3728)	(LP 735-11)						-10° 39? 50?		
@@ -1522,9 +1522,9 @@
 									-05° 02? 29?		
 563	39.496	TRAPPIST-1	TRAPPIST-1 d	Planet					23h 06m 29s	82.58 ± 2.58	Wassermann
 									-05° 02? 29?		
-564	39.52	Zeta Trianguli Australis	? Trianguli Australis A	F6V		1.06	4.91	4.5	16h 28m 28s	82.53 ± 0.52	Südliches
+564	39.52	Zeta Trianguli Australis	Zeta Trianguli Australis A	F6V		1.06	4.91	4.5	16h 28m 28s	82.53 ± 0.52	Südliches
 		(HIP 80686)	(Gliese 624 A)						-70° 05? 04?		Dreieck
-564	39.52	Zeta Trianguli Australis	? Trianguli Australis B	G1V					16h 28m 28s	82.53 ± 0.52	Südliches
+564	39.52	Zeta Trianguli Australis	Zeta Trianguli Australis B	G1V					16h 28m 28s	82.53 ± 0.52	Südliches
 		(HIP 80686)	(Gliese 624 B)						-70° 05? 04?		Dreieck
 565	39.524	Gliese 180	Gliese 180	M2V			10.89	10.47	04h 53m 50s	82.52 ± 2.40	Eridanus
 		(HIP 22762)	(LHS 1712)						-17° 46? 24?		
@@ -1532,7 +1532,7 @@
 		(HIP 22762)							-17° 46? 24?		
 565	39.524	Gliese 180	Gliese 180 c	Planet	0.0156	0.00002	—	—	04h 53m 50s	82.52 ± 2.40	Eridanus
 		(HIP 22762)							-17° 46? 24?		
-566	39.544	Lambda Serpentis	? Serpentis	G0IV-V	1.06	1.14	4.43	4.07	15h 46m 27s	82.48 ± 0.32	Schlange
+566	39.544	Lambda Serpentis	Lambda Serpentis	G0IV-V	1.06	1.14	4.43	4.07	15h 46m 27s	82.48 ± 0.32	Schlange
 		(Gliese 598)	(HIP 77257)						+07° 21? 11?		
 567	39.625	Gliese 798	Gliese 798	K7V			8.83	8.41	20h 42m 19s	82.31 ± 1.07	Indianer
 		(HIP 102186)	(LHS 496)						-52° 41? 57?		
@@ -1554,11 +1554,11 @@
 		(LP 798-25)	(LHS 2783)						-16° 00? 23?		
 574	39.819	Gliese 309	Gliese 309	G9V	0.77	0.75	6.38	5.95	08h 32m 51s	81.91 ± 0.46	Schiffs-
 		(HR 3384)	(11 G. Pyxidis)	K0V					-31° 30? 03?		kompass
-542	39.833	Gliese 275.2[30]	Gliese 275.2 A	M5VI			13.52	13.21	07h 30m 43s	81.88 ± 4.00	Luchs
+542	39.833	Gliese 275.2	Gliese 275.2 A	M5VI			13.52	13.21	07h 30m 43s	81.88 ± 4.00	Luchs
 		(GIC 75)	(LHS 229)						+48° 12? 00?		
 575	39.946	Gliese 82	Gliese 82	M4Ve			12.21	11.78	01h 59m 24s	81.65 ± 4.06	Kassiopeia
 		(HIP 9291)	(V596 Cassiopeiae)						+58° 31? 16?		
-576	40.044	Gliese 211/212[32]	Gliese 211	K1V	0.82	0.91	6.23	5.78	05h 41m 20s	81.45 ± 0.54	Fuhrmann
+576	40.044	Gliese 211/212	Gliese 211	K1V	0.82	0.91	6.23	5.78	05h 41m 20s	81.45 ± 0.54	Fuhrmann
 		(ENG 22)	(V538 Aurigae)						+53° 28? 52?		
 577	40.068	Gliese 737	Gliese 737 A	M0V			9.75		18h 57m 31s	81.40 ± 1.95	Teleskop
 		(CD-56°7546)	(LTT 7509)						-55° 59? 31?		
@@ -1566,9 +1566,9 @@
 		(CD-56°7546)	(LTT 7510)						-55° 59? 28?		
 578	40.078	GJ 1097	GJ 1097	M3V			11.46	11.02	07h 28m 45s	81.38 ± 2.49	Einhorn
 		(HIP 36338)	(LHS 1920)						-03° 17? 53?		
-579	40.078	Gliese 179[33]	Gliese 179	M3.5V	0.38	0.357	12.01	11.54	04h 52m 06s	81.38 ± 4.04	Orion
+579	40.078	Gliese 179	Gliese 179	M3.5V	0.38	0.357	12.01	11.54	04h 52m 06s	81.38 ± 4.04	Orion
 		(Wolf 1539)	(HIP 22627)						+06° 28? 36?		
-477	40.083	Gliese 360/362[24]	Gliese 360	M2V			10.58	10.13	09h 42m 35s	81.37 ± 1.77	Großer
+477	40.083	Gliese 360/362	Gliese 360	M2V			10.58	10.13	09h 42m 35s	81.37 ± 1.77	Großer
 		(OSV 3)	(LHS 2176)						+70° 02? 02?		Bär
 580	40.093	Gliese 192	Gliese 192	M2V			10.75	10.31	05h 12m 42s	81.35 ± 4.07	Stier
 		(G 85-52)	(HIP 24284)						+19° 39? 56?		
@@ -1576,17 +1576,17 @@
 		(BD+44°3567)	(LHS 3577)						+44° 29? 57?		
 582	40.226	Gliese 381	Gliese 381	M2.5V			10.63	10.2	10h 12m 05s	81.08 ± 2.87	Sextant
 		(HIP 49969)	(LHS 2230)						-02° 41? 05?		
-583	40.251	Rho Cancri[34]	?1 Cancri	G8V	1.152	0.95	5.96	5.5	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri	G8V	1.152	0.95	5.96	5.5	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri A)						+28° 19? 51?		
-583	40.251	Rho Cancri	?1 Cancri e	Planet	0.01902	0.00003	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri e	Planet	0.01902	0.00003	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri e)						+28° 19? 51?		
-583	40.251	Rho Cancri	?1 Cancri b	Planet	0.00004	0.00079	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri b	Planet	0.00004	0.00079	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri b)						+28° 19? 51?		
-583	40.251	Rho Cancri	?1 Cancri c	Planet		0.00016	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri c	Planet		0.00016	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri c)						+28° 19? 51?		
-583	40.251	Rho Cancri	?1 Cancri f	Planet	0.05622	0.00015	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri f	Planet	0.05622	0.00015	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri f)						+28° 19? 51?		
-583	40.251	Rho Cancri	?1 Cancri d	Planet		0.00365	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
+583	40.251	Rho Cancri	Rho^1 Cancri d	Planet		0.00365	—	—	08h 52m 36s	81.03 ± 0.75	Krebs
 		(Gliese 324)	(55 Cancri d)						+28° 19? 51?		
 584	40.266	Gliese 390	Gliese 390	M1V	0.61		10.14	9.68	10h 25m 11s	81.00 ± 1.91	Sextant
 		(HIP 51007)	(LHS 2259)						-10° 13? 43?		
@@ -1618,9 +1618,9 @@
 		(LP 397-34)	(NLTT 51496)						+24° 33? 42?		
 590	40.3	GJ 4350	GJ 4350	M4.5V			13.72	13.26	23h 36m 52s	?	Bildhauer
 		(L 504-27)	(LHS 547)						-36° 28? 52?		
-579	40.356	Gliese 179[33]	Gliese 179 b	Planet		0.00078	—	—	04h 49m 25s	80.82 ± 3.78	Orion
+579	40.356	Gliese 179	Gliese 179 b	Planet		0.00078	—	—	04h 49m 25s	80.82 ± 3.78	Orion
 		(Wolf 1539)	(HIP 22627 b)						+06° 23? 37?		
-598	40.371	Beta Trianguli Australis	? Trianguli Australis	F1V	1.9	1.65	2.85	2.38	15h 55m 09s	80.79 ± 0.16	Südliches
+598	40.371	Beta Trianguli Australis	Beta Trianguli Australis	F1V	1.9	1.65	2.85	2.38	15h 55m 09s	80.79 ± 0.16	Südliches
 		(Betria)	(Gliese 601 A)						-63° 25? 51?		Dreieck
 599	40.381	Gliese 671	Gliese 671	M3V			11.37	10.91	17h 19m 53s	80.77 ± 1.66	Herkules
 		(HIP 84790)	(LHS 3281)						+41° 42? 50?		
@@ -1628,7 +1628,7 @@
 		(G 97-54)	(Ross 46)						+13° 52? 47?		
 601	40.446	Gliese 435	Gliese 435	K4.5Vk	0.65	0.67	7.76	7.3	11h 41m 02s	80.64 ± 0.70	Zentaur
 		(HIP 56998)	(LHS 2441)						-44° 24? 19?		
-576	40.567	Gliese 211/212[32]	Gliese 212	M0.5V	0.71	0.57	9.87	9.42	05h 41m 31s	80.40 ± 1.69	Fuhrmann
+576	40.567	Gliese 211/212	Gliese 212	M0.5V	0.71	0.57	9.87	9.42	05h 41m 31s	80.40 ± 1.69	Fuhrmann
 		(ENG 22)	(HD 233153)						+53° 29? 23?		
 602	40.668	GJ 1248	GJ 1248	M1.5V			12.09		20h 03m 51s	80.20 ± 4.30	Adler
 		(G 23-24)	(LHS 3511)						+05° 59? 44?		
@@ -1722,11 +1722,11 @@
 		(HR 4587)	(HD 104304)						-10° 26? 46?		
 636	41.628	Gliese 454	Gliese 454 B	M4V		0.21			12h 00m 44s	78.35 ± 0.31	Jungfrau
 		(HR 4587)	(HD 104304 b)						-10° 26? 46?		
-637	41.676	Gliese 620.1[35]	Gliese 620.1 A	G5V		1.11	5.38	4.82	16h 24m 01s	78.26 ± 0.37	Skorpion
+637	41.676	Gliese 620.1	Gliese 620.1 A	G5V		1.11	5.38	4.82	16h 24m 01s	78.26 ± 0.37	Skorpion
 		(HD 147513)	(HR 6094 A)						-39° 11? 35?		
 637	41.676	Gliese 620.1	Gliese 620.1 Ab	Planet		0.00116	—	—	16h 24m 01s	78.26 ± 0.37	Skorpion
 		(HD 147513)	(HR 6094 b)						-39° 11? 35?		
-432	41.681	36 Ursae Majoris[20]	36 Ursae Majoris A	F0V	1.091	1.121	4.82	4.29	10h 30m 38s	78.25 ± 0.28	Großer
+432	41.681	36 Ursae Majoris	36 Ursae Majoris A	F0V	1.091	1.121	4.82	4.29	10h 30m 38s	78.25 ± 0.28	Großer
 		(Gliese 394)	(LDS 2863 A)						+55° 58? 50?		Bär
 638	41.729	Gliese 206	Gliese 206	M4V			11.53	11.01	05h 32m 15s	78.16 ± 3.70	Orion
 		(V998 Orionis)	(HIP 25953)						+09° 49? 15?		
@@ -1734,7 +1734,7 @@
 		(HIP 36915)	(HIP 36915)						+54° 50? 59?		
 640	41.756	Gliese 675	Gliese 675	K0V	0.76	0.86	6.43	5.89	17h 25m 00s	78.11 ± 0.30	Drache
 		(HIP 85235)	(LHS 3287)						+67° 18? 24?		
-447	41.761	LDS 905[21]	LDS 905 B	M4V			14.83		08h 31m 37s	78.10 ± 5.70	Krebs
+447	41.761	LDS 905	LDS 905 B	M4V			14.83		08h 31m 37s	78.10 ± 5.70	Krebs
 		(Gliese 2069)	(CV Cancri)						+19° 23? 49?		
 641	41.8	GJ 4326	GJ 4326	M3V			12.1		23h 17m 28s	?	Pegasus
 		(G 68-5)	(LTT 16843)						+19° 36? 50?		
@@ -1764,7 +1764,7 @@
 		(HIP 46580)	(LHS 2147)						+05° 39? 18?		schlange
 652	42.139	GJ 1073	GJ 1073	M4V			13.4		04h 52m 34s	77.40 ± 2.40	Perseus
 		(G 96-6)	(LHS 198)						+40° 42? 26?		
-653	42.254	Gliese 114.1[36]	Gliese 114.1 A	M1.5V	0.59		10.72	10.16	02h 50m 10s	77.19 ± 1.64	Pendeluhr
+653	42.254	Gliese 114.1	Gliese 114.1 A	M1.5V	0.59		10.72	10.16	02h 50m 10s	77.19 ± 1.64	Pendeluhr
 		(GJ 9103)	(HIP 13218)						-53° 08? 20?		
 654	42.276	Gliese 895	Gliese 895	M2V			10.03	9.47	23h 24m 31s	77.15 ± 1.29	Kassiopeia
 		(Ross 302)	(HIP 115562)						+57° 51? 16?		
@@ -1820,7 +1820,7 @@
 		(ERO 1)	(ERO 1 C)						-40° 44? 06?		
 671	42.468	Gliese 204	Gliese 204	K5V	0.7	0.75	7.64	7.07	05h 28m 26s	76.80 ± 0.76	Orion
 		(HIP 25623)	(LHS 1763)						-03° 29? 58?		
-583	42.468	Rho Cancri[34]	? Cancri B	M4V	0.3	0.13	13.15	12.66	08h 52m 41s	76.80 ± 2.40	Krebs
+583	42.468	Rho Cancri	Rho Cancri B	M4V	0.3	0.13	13.15	12.66	08h 52m 41s	76.80 ± 2.40	Krebs
 		(Gliese 324)	(55 Cancri B)						+28° 18? 59?		
 672	42.546	Gliese 167	Gliese 167	K4.5Vk	0.71	0.74	7.64	7.06	04h 15m 57s	76.66 ± 0.48	Schwertfisch
 		(HIP 19884)	(LHS 1650)						-53° 18? 35?		
@@ -1842,15 +1842,15 @@
 		(EQ J2134-7137)	(EQ J2134-7137)						-71° 37? 43?		
 681	42.741	Gliese 707	Gliese 707	M0V			8.37	7.79	18h 12m 21s	76.31 ± 1.06	Südliche Krone
 		(HD 166348)	(HIP 89211)	K6V?					-43° 26? 41?		
-682	42.803	Capella[37]	Capella Aa	G1III	12.2	2.69	0.76	0.2	05h 16m 41s	76.20 ± 0.46	Fuhrmann
-		(Alpha Aurigae)	(? Aurigae A)						+45° 59? 53?		
+682	42.803	Capella	Capella Aa	G1III	12.2	2.69	0.76	0.2	05h 16m 41s	76.20 ± 0.46	Fuhrmann
+		(Alpha Aurigae)	(Alpha Aurigae A)						+45° 59? 53?		
 682	42.803	Capella	Capella Ab	K0III	9.2	2.56	0.91	0.35	05h 16m 41s	76.20 ± 0.46	Fuhrmann
-		(Alpha Aurigae)	(? Aurigae B)						+45° 59? 53?		
+		(Alpha Aurigae)	(Alpha Aurigae B)						+45° 59? 53?		
 683	42.848	2MASS 0539-0059	2MASS 0539-0059	L5			13.85 J	—	05h 39m 52s	76.12 ± 2.17	Orion
 		(SIPS 0539-0059)	(SIPS 0539-0059)						-00° 59? 02?		
 684	42.9	GJ 1031	GJ 1031	M3V			13.4		01h 08m 18s	?	Bildhauer
 		(G 269-106)	(LHS 1197)						-28° 48? 21?		
-636	42.915	Gliese 620.1[35]	Gliese 620.1 B	DA2 VII		0.65	11.01	10.42	16h 23m 34s	76.00 ± 2.56	Skorpion
+636	42.915	Gliese 620.1	Gliese 620.1 B	DA2 VII		0.65	11.01	10.42	16h 23m 34s	76.00 ± 2.56	Skorpion
 		(HD 147513)	(EGGR 274)	A3V?					-39° 13? 46?		
 685	42.915	GJ 1035	GJ 1035	M5V			14.76		01h 19m 52s	76.00 ± 4.00	Kepheus
 		(G 265-8)	(LHS 140)						+84° 09? 33?		
@@ -1880,7 +1880,7 @@
 		(HIP 90790)	(LTT 7358)						-18° 54? 32?		
 696	43.257	GJ 1012	GJ 1012	M4V			12.23		00h 28m 39s	75.40 ± 5.10	Walfisch
 		(G 31-53)	(LHS 1084)						-06° 39? 48?		
-697	43.268	Gliese 507[38]	Gliese 507 A	M0.5V			9.62	8.87	13h 19m 34s	75.38 ± 1.54	Jagdhunde
+697	43.268	Gliese 507	Gliese 507 A	M0.5V			9.62	8.87	13h 19m 34s	75.38 ± 1.54	Jagdhunde
 		(HJ 529)	(LHS 2716)						+35° 06? 37?		
 698	43.28	GJ 3506	GJ 3506	M0.5V			11.67		08h 35m 49s	75.36 ± 9.00	Großer
 		(G 234-37)	(LHS 250)						+68° 04? 09?		Bär
@@ -1900,7 +1900,7 @@
 		(2MASS 1225-2739)	(2MASS 1225-2739 A)						-27° 39? 47?		schlange
 703	43.43	WDS 12259-2740	WDS 12259-2740 B	T8		0.0239	16.92 J	—	12h 25m 54s	75.10 ± 2.50	Wasser-
 		(2MASS 1225-2739)	(2MASS 1225-2739 B)						-27° 39? 47?		schlange
-705	43.43	Gliese 458[39]	Gliese 458 B	M3V			13.33		12h 12m 21s	75.10 ± 15.0	Großer
+705	43.43	Gliese 458	Gliese 458 B	M3V			13.33		12h 12m 21s	75.10 ± 15.0	Großer
 		(WDS 12123+5429)	(G 197-50)						+54° 29? 23?		Bär
 706	43.435	Gliese 835	Gliese 835 A	M1V			10.04		21h 38m 00s	75.09 ± 1.89	Pegasus
 		(SKF 245)	(WDS 2137+2743 Aa)						+27° 43? 26?		
@@ -1942,11 +1942,11 @@
 		(VB 24)	(WDS 15400+4330 A)						+43° 29? 40?		
 721	43.956	GJ 1194	GJ 1194 B	M3.5V			13.8		15h 40m 04s	74.20 ± 4.80	Bärenhüter
 		(VB 24)	(WDS 15400+4330 B)						+43° 29? 36?		
-722	43.962	Theta Ursae Majoris	? Ursae Majoris Aa	F6IV	2.365	1.41	3.17	2.43	09h 32m 51s	74.19 ± 0.14	Großer
+722	43.962	Theta Ursae Majoris	Theta Ursae Majoris Aa	F6IV	2.365	1.41	3.17	2.43	09h 32m 51s	74.19 ± 0.14	Großer
 		(Sarir)	(Gliese 354 A)	F7V?					+51° 40? 38?		Bär
-722	43.962	Theta Ursae Majoris	? Ursae Majoris B	M6V		0.15	13.8	13	09h 32m 51s	74.19 ± 0.14	Großer
+722	43.962	Theta Ursae Majoris	Theta Ursae Majoris B	M6V		0.15	13.8	13	09h 32m 51s	74.19 ± 0.14	Großer
 		(Sarir)	(Gliese 354 B)						+51° 40? 38?		Bär
-723	44.031	SCR 2112-5428[40]	SCR 2112-5428 B	M? V					21h 12m 00s	?	Indianer
+723	44.031	SCR 2112-5428	SCR 2112-5428 B	M? V					21h 12m 00s	?	Indianer
 									-54° 28? 00?		
 724	44.075	Gliese 836	Gliese 836	M4V			13.4		21h 39m 01s	74.00 ± 7.00	Steinbock
 		(L 714-88)	(LHS 513)						-24° 09? 28?		
@@ -1960,23 +1960,23 @@
 		(GIC 61)	(G 192-12)						+58° 34? 16?		
 728	44.195	Gliese 868	Gliese 868	K4.5Vk			7.83	7.17	22h 40m 43s	73.80 ± 0.77	Südlicher
 		(HD 214749)	(HIP 111960)						-29° 40? 28?		Fisch
-729	44.249	Ypsilon Andromedae	? Andromedae A	F9V	1.48	1.27	4.1	3.44	01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae A	F9V	1.48	1.27	4.1	3.44	01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(50 Andromedae)						+41° 24? 20?		
-729	44.249	Ypsilon Andromedae	? Andromedae b	Planet		0.0006	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae b	Planet		0.0006	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(HR 458 b)						+41° 24? 20?		
-729	44.249	Ypsilon Andromedae	? Andromedae c	Planet		0.0019	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae c	Planet		0.0019	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(HR 458 c)						+41° 24? 20?		
-729	44.249	Ypsilon Andromedae	? Andromedae d	Planet		0.0039	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae d	Planet		0.0039	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(HR 458 d)						+41° 24? 20?		
-729	44.249	Ypsilon Andromedae	? Andromedae e	Planet		0.001	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae e	Planet		0.001	—	—	01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(HR 458 e)						+41° 24? 20?		
-729	44.249	Ypsilon Andromedae	? Andromedae B	M4.5V					01h 36m 48s	73.71 ± 0.10	Andromeda
+729	44.249	Ypsilon Andromedae	Ypsilon Andromedae B	M4.5V					01h 36m 48s	73.71 ± 0.10	Andromeda
 		(Gliese 61)	(2MASS 0136+4123)						+41° 24? 20?		
 730	44.255	Rob 233	Rob 233	M4.5V			13.86		03h 36m 41s	73.70 ± 14.1	Stier
 		(CNS4 341)	(RX 0336+0329)						+03° 29? 20?		
 731	44.285	Gliese 69	Gliese 69	K5.5V			8.42	7.76	01h 43m 41s	73.65 ± 0.98	Kassiopeia
 		(HD 10436)	(LHS 1291)						+63° 49? 24?		
-732	44.285	LHS 1955[41]	LHS 1955 B	M? V					07h 54m 55s	73.65 ± 19.6	Achterdeck
+732	44.285	LHS 1955	LHS 1955 B	M? V					07h 54m 55s	73.65 ± 19.6	Achterdeck
 		(L 601-78)	(L 601-78 B)						-29° 20? 56?		des Schiffs
 733	44.315	2MASS 1534-2952	2MASS 1534-2952 A	T5.5		0.0286	15.28 J	—	15h 34m 50s	73.60 ± 1.20	Waage
 		(BUG 3)	(WISE 1534-2952 A)						-29° 52? 27?		
@@ -2004,11 +2004,11 @@
 		(HIP 50341)	(LHS 2244)						-11° 57? 42?		
 743	44.587	Gliese 5	Gliese 5	G8V		0.889	6.13	5.45	00h 06m 37s	73.15 ± 0.56	Andromeda
 		(ENG 1)	(HIP 544. HR 8)	K0V?					+29° 01? 17?		
-744	44.587	Alschain	? Aquilae A	G9.5IV	3.28	1.26	3.71	3.03	19h 55m 19s	73.00 ± 0.20	Adler
+744	44.587	Alschain	Beta Aquilae A	G9.5IV	3.28	1.26	3.71	3.03	19h 55m 19s	73.00 ± 0.20	Adler
 		(Beta Aquilae)	(Gliese 771 A)						+06° 24? 24?		
-744	44.587	Alschain	? Aquilae B	M3V		0.33	11.4	10.7	19h 55m 19s	73.00 ± 0.20	Adler
+744	44.587	Alschain	Beta Aquilae B	M3V		0.33	11.4	10.7	19h 55m 19s	73.00 ± 0.20	Adler
 		(Beta Aquilae)	(Gliese 771 B)						+06° 24? 37?		
-744	44.587	Alschain	? Aquilae C	M? V			10.5	9.8	19h 55m 18s	73.00 ± 0.20	Adler
+744	44.587	Alschain	Beta Aquilae C	M? V			10.5	9.8	19h 55m 18s	73.00 ± 0.20	Adler
 		(Beta Aquilae)	(Gliese 771 C)						+06° 26? 01?		
 744	44.679	GJ 1215	GJ 1215	M5V			15.12		17h 17m 44s	73.00 ± 6.00	Schlange
 		(G 139-29)	(LHS 3277)						+11° 40? 12?		
@@ -2024,7 +2024,7 @@
 		(EQ J2255-3118)	(EQ J2255-3118)						-31° 18? 42?		Fisch
 750	44.7	GJ 3326	GJ 3326	M4V			13.75		05h 04m 15s	?	Orion
 		(G 97-15)	(LTT 17736)						+11° 03? 24?		
-751	44.728	Iota Piscium	? Piscium	F7V	1.595	1.25	4.13	3.44	23h 39m 57s	72.92 ± 0.15	Fische
+751	44.728	Iota Piscium	Iota Piscium	F7V	1.595	1.25	4.13	3.44	23h 39m 57s	72.92 ± 0.15	Fische
 		(Gliese 904)	(HIP 116771)						+05° 37? 35?		
 751	44.728	Gliese 428	Gliese 428 A	K5V	0.74	0.79	7.54	6.67	11h 24m 40s	72.92 ± 1.82	Zentaur
 		(CD-60°3532)	(HD 99279 A)						-61° 38? 51?		
@@ -2040,7 +2040,7 @@
 		(G 252-25)	(LHS 2088)						+72° 57? 37?		Bär
 756	44.802	GJ 1292	GJ 1292	M3.5V			11.72		23h 57m 44s	72.80 ± 2.70	Pegasus
 		(G 129-47)	(LHS 551)						+23° 18? 17?		
-732	44.826	LHS 1955[41]	LHS 1955 A	M4V			12.79		07h 54m 55s	72.76 ± 1.09	Achterdeck
+732	44.826	LHS 1955	LHS 1955 A	M4V			12.79		07h 54m 55s	72.76 ± 1.09	Achterdeck
 		(L 601-78)	(L 601-78 A)						-29° 20? 56?		des Schiffs
 758	44.931	Gliese 310	Gliese 310	M1V			9.26	8.57	08h 36m 25s	72.59 ± 1.26	Großer
 		(HIP 42220)	(LHS 251)						+67° 17? 42?		Bär
@@ -2066,10 +2066,10 @@
 		(Ross 136)	(LHS 464)						+06° 20? 38?		
 767	45.299	2MASS 2254+3123	2MASS 2254+3123	T4			15.26 J	—	22h 54m 19s	72.00 ± 3.00	Pegasus
 		(WISE 2254+3123)	(WISE 2254+3123)						+31° 23? 50?		
-682	45.299	Capella[37]	Capella Ha	M2.5V	0.54	0.53	10.16	9.53	05h 17m 24s	72.00 ± 4.00	Fuhrmann
-		(Alpha Aurigae)	(? Aurigae H)						+45° 50? 23?		
+682	45.299	Capella	Capella Ha	M2.5V	0.54	0.53	10.16	9.53	05h 17m 24s	72.00 ± 4.00	Fuhrmann
+		(Alpha Aurigae)	(Alpha Aurigae H)						+45° 50? 23?		
 682	45.299	Capella	Capella Hb	M4V		0.19	13.7	13	05h 17m 24s	72.00 ± 4.00	Fuhrmann
-		(Alpha Aurigae)	(? Aurigae L)						+45° 50? 20?		
+		(Alpha Aurigae)	(Alpha Aurigae L)						+45° 50? 20?		
 767	45.299	Gliese 732	Gliese 732	M3.5VI			12.7		18h 53m 40s	72.00 ± 7.00	Südliche Krone
 		(L 489-58)	(LHS 469)						-38° 36? 44?		
 767	45.299	GJ 3336	GJ 3336 A	M2.5V			11.39		05h 10m 22s	72.00 ± 34.0	Fuhrmann
@@ -2160,13 +2160,13 @@
 		(GJ 4288/GJ 4289)	(L 645-73)						-29° 21? 24?		Fisch
 804	45.923	2MASS 1007-4555	2MASS 1007-4555	T5			15.65 J	—	10h 07m 34s	?	Segel des
 		(WISE 1520+3546)	(WISE 1520+3546)						-45° 55? 15?		Schiffs
-805	45.938	111 Tauri[42]	111 Tauri B	K4V			7.92		05h 23m 38s	71.00 ± 1.34	Stier
+805	45.938	111 Tauri	111 Tauri B	K4V			7.92		05h 23m 38s	71.00 ± 1.34	Stier
 		(WNO 52)	(Gliese 201)						+17° 19? 27?		
 806	45.944	GJ 4040	GJ 4040	M1V			11.79	11.05	17h 57m 51s	70.99 ± 1.86	Herkules
 		(HIP 87938)	(LHS 3343)						+46° 35? 19?		
 807	45.97	Gliese 739	Gliese 739	M1V			11.14	10.39	18h 59m 07s	70.95 ± 2.56	Teleskop
 		(HIP 93206)	(LHS 3343)						-48° 16? 28?		
-808	45.983	26 Draconis[43]	26 Draconis C	M0.5V			9.97	9.23	17h 35m 34s	70.93 ± 0.95	Drache
+808	45.983	26 Draconis	26 Draconis C	M0.5V			9.97	9.23	17h 35m 34s	70.93 ± 0.95	Drache
 		(LDS 2736)	(Gliese 685)						+61° 40? 54?		
 809	45.988	WISE 0401+2849	WISE 0401+2849	L3		0.062	13.41 J	—	23h 25m 45s	?	Andromeda
 									+42° 51? 49?		
@@ -2178,11 +2178,11 @@
 		(WISE 2237+7228)	(EQ J2209-2734)						+72° 28? 35?		
 809	45.988	WISE 2344+1034	WISE 2344+1034	T9			18.78 J	—	23h 44m 46s	?	Pegasus
 		(EQ J2344+1034)	(EQ J2344+1034)						+10° 34? 16?		
-814	45.996	Gamma Cephei	? Cephei A	K1IIIe	4.79	1.4	3.22	2.51	23h 39m 21s	70.91 ± 0.40	Kepheus
+814	45.996	Gamma Cephei	Gamma Cephei A	K1IIIe	4.79	1.4	3.22	2.51	23h 39m 21s	70.91 ± 0.40	Kepheus
 		(Errai. Alrai)	(Gliese 903 A)						+77° 37? 56?		
-814	45.996	Gamma Cephei	? Cephei Ab	Planet		0.0018	—	—	23h 39m 21s	70.91 ± 0.40	Kepheus
+814	45.996	Gamma Cephei	Gamma Cephei Ab	Planet		0.0018	—	—	23h 39m 21s	70.91 ± 0.40	Kepheus
 		(Errai. Alrai)	(Gliese 903 b)						+77° 37? 56?		
-814	45.996	Gamma Cephei	? Cephei B	M1-4V	0.5	0.36			23h 39m 21s	70.91 ± 0.40	Kepheus
+814	45.996	Gamma Cephei	Gamma Cephei B	M1-4V	0.5	0.36			23h 39m 21s	70.91 ± 0.40	Kepheus
 		(Errai. Alrai)	(Gliese 903 B)						+77° 37? 56?		
 815	46	GJ 1157	GJ 1157	M4V			13.62		12h 23m 01s	?	Zentaur
 		(L 326-61)	(LHS 2552)						-46° 37? 08?		
@@ -2198,11 +2198,11 @@
 		(Ross 486)	(LHS 5250)						-02° 21? 31?		
 820	46.224	Gliese 42	Gliese 42	K2.5Vk	0.74	0.8	7.17	6.39	00h 53m 01s	70.56 ± 0.61	Bildhauer
 		(HIP 4148)	(LHS 1163)						-30° 21? 25?		
-821	46.231	Gliese 282[44]	Gliese 282 C	M? V			9.87	9.11	07h 36m 07s	70.55 ± 1.64	Einhorn
+821	46.231	Gliese 282	Gliese 282 C	M? V			9.87	9.11	07h 36m 07s	70.55 ± 1.64	Einhorn
 		(G 112-29)	(HIP 36985)						-03° 06? 39?		
 822	46.244	Gliese 481	Gliese 481	K4.5V			7.91	7.15	12h 41m 06s	70.53 ± 0.73	Haar der
 		(G 61-8)	(LHS 1163)						+15° 22? 36?		Berenike
-808	46.283	26 Draconis[43]	26 Draconis A	F9V		1.3	5.28	4.51	17h 35m 00s	70.47 ± 0.37	Drache
+808	46.283	26 Draconis	26 Draconis A	F9V		1.3	5.28	4.51	17h 35m 00s	70.47 ± 0.37	Drache
 		(LDS 2736)	(ADS 10660 A)						+61° 52? 28?		
 808	46.283	26 Draconis	26 Draconis B	K3V		0.83	8.54		17h 35m 00s	70.47 ± 0.37	Drache
 		(LDS 2736)	(ADS 10660 B)						+61° 52? 30?		
@@ -2210,25 +2210,25 @@
 		(WISE 0652+4127)	(WISE 0652+4127)						+41° 27? 36?		
 824	46.329	Gliese 532	Gliese 532	K7V	0.68		8.82	8.06	13h 52m 00s	70.40 ± 0.80	Großer
 		(HD 234078)	(G 177-62)						+49° 57? 03?		Bär
-821	46.349	Gliese 282[44]	Gliese 282 A	K2V			7.18	6.42	07h 37m 29s	70.37 ± 0.64	Einhorn
+821	46.349	Gliese 282	Gliese 282 A	K2V			7.18	6.42	07h 37m 29s	70.37 ± 0.64	Einhorn
 		(HD 61606)	(V869 Monocerotis)						-03° 28? 39?		
 821	46.349	Gliese 282	Gliese 282 B	K7V			8.93		07h 40m 03s	70.37 ± 0.64	Einhorn
 		(HD 61606)	(HD 61606 B)						-03° 36? 13?		
-825	46.382	Tau1 Eridani	?1 Eridani A	F7V		1.15	4.46	3.71	02h 45m 06s	70.32 ± 1.83	Eridanus
+825	46.382	Tau^1 Eridani	Tau^1 Eridani A	F7V		1.15	4.46	3.71	02h 45m 06s	70.32 ± 1.83	Eridanus
 		(Gliese 111)	(Gliese 111 A)						-18° 34? 21?		
-825	46.382	Tau1 Eridani	?1 Eridani B	M4V					02h 45m 06s	70.32 ± 1.83	Eridanus
+825	46.382	Tau^1 Eridani	Tau^1 Eridani B	M4V					02h 45m 06s	70.32 ± 1.83	Eridanus
 		(Gliese 111)	(Gliese 111 B)	F6V?					-18° 34? 21?		
 826	46.395	GJ 3693	GJ 3693	M8V			17.89		11h 53m 53s	70.30 ± 2.70	Jungfrau
 		(LP 553-59)	(LHS 2471)						+06° 59? 56?		
-827	46.435	Alpha Fornacis	? Fornacis A	F6V?	2.04	1.33	3.98	3.21	03h 12m 04s	70.24 ± 0.45	Chemischer
+827	46.435	Alpha Fornacis	Alpha Fornacis A	F6V?	2.04	1.33	3.98	3.21	03h 12m 04s	70.24 ± 0.45	Chemischer
 		(Gliese 127)	(Gliese 127 A)						-28° 59? 20?		Ofen
-827	46.435	Alpha Fornacis	? Fornacis B	G7V		0.75	7.19		03h 12m 04s	70.24 ± 0.45	Chemischer
+827	46.435	Alpha Fornacis	Alpha Fornacis B	G7V		0.75	7.19		03h 12m 04s	70.24 ± 0.45	Chemischer
 		(Gliese 127)	(Gliese 127 B)						-28° 59? 13?		Ofen
 828	46.488	GJ 3148	GJ 3148 A	M3Ve			12.02	11.26	02h 16m 41s	70.16 ± 2.88	Chemischer
 		(WDS 02167-3100 A)	(LHS 1377)						-30° 59? 18?		Ofen
 829	46.521	HD 150689	HD 150689	K3V			7.51	6.74	16h 44m 15s	70.11 ± 0.66	Skorpion
 		(CD-38°11173)	(HIP 81935)						-38° 56? 37?		
-830	46.527	Eta Cephei	? Cephei	K0IV	4.129	1.6	3.41	2.64	20h 45m 17s	70.10 ± 0.11	Kepheus
+830	46.527	Eta Cephei	Eta Cephei	K0IV	4.129	1.6	3.41	2.64	20h 45m 17s	70.10 ± 0.11	Kepheus
 		(Gliese 807)	(Gliese 807)						+61° 50? 20?		
 830	46.527	2MASS 2057-0252	2MASS 2057-0252	L1.5			13.12 J	—	20h 57m 54s	70.10 ± 3.70	Wassermann
 		(2MUCD 12054)	(2MUCD 12054)						-02° 52? 30?		
@@ -2268,7 +2268,7 @@
 		(Gliese 672)	(Gliese 672 A)						-28° 59? 13?		
 847	46.794	Gliese 546	Gliese 546	K6V	0.7		8.61	7.84	14h 21m 57s	69.70 ± 0.82	Bärenhüter
 		(HIP 70218)	(LHS 2903)						+29° 37? 47?		
-848	46.821	Pi1 Ursae Majoris	?1 Ursae Majoris	G1.5Vb	0.95	0.9	5.63	4.84	08h 39m 12s	69.66 ± 0.37	Großer
+848	46.821	Pi^1 Ursae Majoris	Pi^1 Ursae Majoris	G1.5Vb	0.95	0.9	5.63	4.84	08h 39m 12s	69.66 ± 0.37	Großer
 		(Muscida)	(Gliese 311)						+65° 01? 15?		Bär
 849	46.862	2MASS 1439+1929	2MASS 1439+1929	L1			21.04	—	14h 39m 28s	69.60 ± 0.50	Bärenhüter
 		(WISE 0920+4539)	(WISE 0920+4539)				12.76 J		+19° 29? 15?		
@@ -2282,7 +2282,7 @@
 		(HD 196761)	(HIP 101997)						+65° 01? 15?		
 853	46.909	Gliese 816	Gliese 816	M3V			11.22	10.45	21h 01m 59s	69.53 ± 2.93	Wassermann
 		(Wolf 906)	(LHS 3612)						-06° 19? 07?		
-805	46.922	111 Tauri[42]	111 Tauri A	F8V	1.67	1.08	5.11	3.49	05h 24m 25s	69.51 ± 0.38	Stier
+805	46.922	111 Tauri	111 Tauri A	F8V	1.67	1.08	5.11	3.49	05h 24m 25s	69.51 ± 0.38	Stier
 		(WNO 52)	(Gliese 202)						+17° 23? 01?		
 854	46.922	Gliese 130.1	GJ 9113 A	M1.5V			10.76	10	03h 16m 14s	69.51 ± 3.37	Giraffe
 		(Ross 370)	(LHS 1522)						+58° 10? 03?		
@@ -2328,7 +2328,7 @@
 		(G 139-21)							+04° 57? 50?		träger
 867	47.262	GJ 3438	GJ 3438	M0V			10.39	9.59	07h 18m 08s	69.01 ± 2.07	Fuhrmann
 		(Ross 987)	(HIP 35353)						+39° 16? 29?		
-868	47.269	Gliese 589[45]	Gliese 589 A	M2.5V			12.4		15h 35m 21s	69.00 ± 3.00	Schlange
+868	47.269	Gliese 589	Gliese 589 A	M2.5V			12.4		15h 35m 21s	69.00 ± 3.00	Schlange
 		(LDS 977)	(Ross 513 A)						+17° 42? 47?		
 868	47.269	GJ 1220	GJ 1220	M4V			14.18		17h 31m 17s	69.00 ± 3.00	Kleiner
 		(G 259-15)	(LHS 3297)						+82° 05? 20?		Bär
@@ -2346,19 +2346,19 @@
 		(G 136-72)	(LHS 6282)						+19° 21? 29?		
 876	47.31	Gliese 123	Gliese 123	K5V			9.06	8.26	03h 06m 27s	68.94 ± 1.98	Walfisch
 		(HIP 14445)	(LHS 1496)						+01° 57? 55?		
-877	47.324	Iota Ursae Majoris	? Ursae Majoris A	A7Vn	1.5	1.7	3.13	2.28	08h 59m 12s	68.92 ± 0.16	Großer
+877	47.324	Iota Ursae Majoris	Iota Ursae Majoris A	A7Vn	1.5	1.7	3.13	2.28	08h 59m 12s	68.92 ± 0.16	Großer
 		(Talitha Borealis)	(HIP 44127)	F0IV-V					+48° 02? 31?		Bär
-877	47.324	Iota Ursae Majoris	? Ursae Majoris B	M3V			10.8		08h 59m 13s	68.92 ± 0.16	Großer
+877	47.324	Iota Ursae Majoris	Iota Ursae Majoris B	M3V			10.8		08h 59m 13s	68.92 ± 0.16	Großer
 		(Talitha Borealis)	(Gliese 331 B)						+48° 02? 29?		Bär
-877	47.324	Iota Ursae Majoris	? Ursae Majoris C	M4V			11.1		08h 59m 13s	68.92 ± 0.16	Großer
+877	47.324	Iota Ursae Majoris	Iota Ursae Majoris C	M4V			11.1		08h 59m 13s	68.92 ± 0.16	Großer
 		(Talitha Borealis)	(Gliese 331 C)						+48° 02? 29?		Bär
 878	47.358	Gliese 611	Gliese 611 A	G8V			6.67	5.86	16h 04m 57s	68.87 ± 0.33	Nördliche
 		(HD 144579)	(LHS 3152)						+39° 09? 23?		Krone
 878	47.358	Gliese 611	Gliese 611 B	M5V			14.2		16h 04m 51s	68.87 ± 0.33	Nördliche
 		(HD 144579)	(LHS 3150)						+39° 09? 36?		Krone
-879	47.393	Theta Bootis[46]	? Boötis B	F7V	1.733	1.3	4.04	3.22	14h 25m 12s	68.82 ± 0.14	Bärenhüter
+879	47.393	Theta Bootis	Theta Boötis B	F7V	1.733	1.3	4.04	3.22	14h 25m 12s	68.82 ± 0.14	Bärenhüter
 		(Gliese 549)	(Asellus Primus)						+51° 51? 03?		
-879	47.393	Theta Bootis	? Boötis B	M3.5V			11.1		14h 25m 12s	68.82 ± 0.14	Bärenhüter
+879	47.393	Theta Bootis	Theta Boötis B	M3.5V			11.1		14h 25m 12s	68.82 ± 0.14	Bärenhüter
 		(Gliese 549)	(LHS 6266)						+51° 49? 54?		
 880	47.406	RY Sextantis	RY Sextantis	M3.5V			12.64	11.81	10h 36m 01s	68.80 ± 6.30	Sextant
 		(Gliese 398)	(LHS 2285)						+05° 07? 13?		
@@ -2410,25 +2410,25 @@
 		(WISE 1346-0031)	(WISE 1346-0031)						-00° 31? 50?		
 901	47.753	CW Ursae Majoris	CW Ursae Majoris	M3.5V			12.38		11h 11m 52s	68.30 ± 10.6	Großer
 		(GJ 3647)	(NLTT 26581)						+33° 32? 11?		Bär
-903	47.767	Gliese 420[47]	Gliese 420 A	K4V			7.65	6.82	11h 15m 12s	68.28 ± 0.65	Drache
+903	47.767	Gliese 420	Gliese 420 A	K4V			7.65	6.82	11h 15m 12s	68.28 ± 0.65	Drache
 		(ADS 8100)	(ADS 8100 A)						+73° 28? 31?		
 903	47.767	Gliese 420	Gliese 420 B	M2V			11.33		11h 15m 11s	68.28 ± 0.65	Drache
 		(ADS 8100)	(ADS 8100 C)						+73° 28? 36?		
 904	47.774	Gliese 259	Gliese 259	K4V			6.69	5.9	07h 01m 14s	68.27 ± 0.61	Großer
 		(HIP 33817)	(HD 52698)						-25° 56? 55?		Hund
-905	47.809	Psi Serpentis[48]	? Serpentis A	G5V	0.98	0.98	5.87	5.05	15h 44m 02s	68.22 ± 0.66	Schlange
+905	47.809	Psi Serpentis	Psi Serpentis A	G5V	0.98	0.98	5.87	5.05	15h 44m 02s	68.22 ± 0.66	Schlange
 		(Gliese 596.1)	(HD 140538 A)						+02° 30? 55?		
-905	47.809	Psi Serpentis	? Serpentis B	M2V			12	10.6	15h 44m 02s	68.22 ± 0.66	Schlange
+905	47.809	Psi Serpentis	Psi Serpentis B	M2V			12	10.6	15h 44m 02s	68.22 ± 0.66	Schlange
 		(Gliese 596.1)	(HD 140538 B)						+02° 30? 59?		
 906	47.845	Gliese 613	Gliese 613	K1V	0.8	0.7	7.12	6.32	16h 09m 43s	68.17 ± 0.64	Winkelmaß
 		(HIP 79190)	(HD 144628)						-56° 26? 43?		
-907	47.873	Psi Capricorni	? Capricorni	F5V	1.45	1.31	4.15	3.32	20h 46m 06s	68.13 ± 0.27	Steinbock
+907	47.873	Psi Capricorni	Psi Capricorni	F5V	1.45	1.31	4.15	3.32	20h 46m 06s	68.13 ± 0.27	Steinbock
 		(Gliese 805)	(HIP 102485)						-25° 16? 15?		
 908	47.894	GJ 3252	GJ 3252	M8V			18.02		03h 51m 00s	68.10 ± 1.90	Eridanus
 		(LP 593-68)	(LHS 1604)						-00° 52? 45?		
 909	47.964	GJ 3894	GJ 3894	M4.5V			14.26		15h 11m 51s	68.00 ± 3.10	Waage
 		(G 151-34)	(LHS 392)						-10° 14? 18?		
-868	47.964	Gliese 589[45]	Gliese 589 B	M4.5V			14.94		15h 35m 20s	68.00 ± 4.00	Schlange
+868	47.964	Gliese 589	Gliese 589 B	M4.5V			14.94		15h 35m 20s	68.00 ± 4.00	Schlange
 		(LDS 977)	(Ross 513 B)						+17° 43? 05?		
 909	47.964	Gliese 878	Gliese 878	M3.5V			12.78		22h 54m 22s	68.00 ± 11.0	Kepheus
 		(Ross 226)	(LHS 3871)						+60° 59? 44?		
@@ -2458,9 +2458,9 @@
 		(2MUCD 20335)	(WDS 09156+0422 B)						+04° 22? 05?		schlange
 920	48.271	SCR 1630-3633	SCR 1630-3633	M? V			10.04 J		16h 30m 27s	?	Skorpion
 									-36° 33? 56?		
-922	48.312	Ny2 Lupi	?2 Lupi	G2-4V	1.04	0.91	5.65	4.93	15h 21m 48s	67.51 ± 0.39	Wolf
+922	48.312	Ny^2 Lupi	Ny^2 Lupi	G2-4V	1.04	0.91	5.65	4.93	15h 21m 48s	67.51 ± 0.39	Wolf
 		(Gliese 582)	(HD 136352)						-48° 19? 03?		
-923	48.319	GJ 4338[49]	GJ 4338 B	M4.2V			12.44		23h 29m 23s	67.50 ± 2.50	Andromeda
+923	48.319	GJ 4338	GJ 4338 B	M4.2V			12.44		23h 29m 23s	67.50 ± 2.50	Andromeda
 		(GIC 193)	(G 190-27 B)						+41° 27? 52?		
 924	48.406	Gliese 791	Gliese 791	M3V			12.43	10.58	20h 27m 42s	67.38 ± 3.01	Mikroskop
 		(HIP 100923)	(LHS 3553)						-27° 44? 52?		
@@ -2476,15 +2476,15 @@
 		(Gliese 225)	(HIP 28103)						+32° 54? 05?		
 928	48.535	Gliese 483	Gliese 483	K3V			7.04	6.18	12h 44m 15s	67.20 ± 0.66	Jagdhunde
 		(HIP 62145)	(HD 110833)						+51° 45? 33?		
-923	48.535	GJ 4338[49]	GJ 4338 A	M2.9V			11.68		23h 29m 23s	67.20 ± 2.50	Andromeda
+923	48.535	GJ 4338	GJ 4338 A	M2.9V			11.68		23h 29m 23s	67.20 ± 2.50	Andromeda
 		(GIC 193)	(G 190-28 A)						+41° 28? 07?		
 928	48.535	GJ 4029	GJ 4029	M6V			20.1		17h 49m 59s	67.20 ± 6.40	Herkules
 		(LP 389-18)	(LHS 3332)						+22° 41? 07?		
 928	48.535	GJ 4038	GJ 4038	M3V			12.21		17h 57m 03s	67.20 ± 15.7	Herkules
 		(G 183-13)	(L 1279-91)						+15° 46? 43?		
-931	48.586	Ras Alhague	? Ophiuchi A	A5III	2.6	2.4	2.07	1.3	17h 34m 56s	67.13 ± 1.06	Schlangen-
+931	48.586	Ras Alhague	Alpha Ophiuchi A	A5III	2.6	2.4	2.07	1.3	17h 34m 56s	67.13 ± 1.06	Schlangen-
 		(Alpha Ophiuchi)	(Gliese 681 A)						+12° 33? 36?		träger
-931	48.586	Ras Alhague	? Ophiuchi B	K5-7V		0.85	6.02 J		17h 34m 56s	67.13 ± 1.06	Schlangen-
+931	48.586	Ras Alhague	Alpha Ophiuchi B	K5-7V		0.85	6.02 J		17h 34m 56s	67.13 ± 1.06	Schlangen-
 		(Alpha Ophiuchi)	(Gliese 681 B)						+12° 33? 36?		träger
 932	48.597	WISE 0015-4615	WISE 0015-4615	T8				—	00h 15m 06s	?	Phönix
 									-46° 15? 18?		
@@ -2518,9 +2518,9 @@
 		(G 232-70)	(NLTT 53822)						+59° 24? 50?		
 945	48.702	Gliese 52	Gliese 52	K7V			8.98	8.13	01h 07m 08s	66.97 ± 1.31	Kassiopeia
 		(HIP 5247)	(LHS 136)						+63° 56? 29?		
-946	48.709	Gliese 319[50]	Gliese 319 C	M3.5V			11.48	10.62	08h 42m 52s	66.96 ± 3.91	Krebs
+946	48.709	Gliese 319	Gliese 319 C	M3.5V			11.48	10.62	08h 42m 52s	66.96 ± 3.91	Krebs
 		(LUY 6218)	(HIP 42762)						+09° 33? 11?		
-947	48.716	Alchiba	? Corvi	F1V	1.67	1.39	4.03	3.25	12h 08m 25s	66.95 ± 0.15	Rabe
+947	48.716	Alchiba	Alpha Corvi	F1V	1.67	1.39	4.03	3.25	12h 08m 25s	66.95 ± 0.15	Rabe
 		(Alpha Corvi)	(Gliese 455.3)						-24° 43? 44?		
 948	48.797	Wolf 1014	GJ 9773	M3V			11.98	11.13	22h 12m 36s	66.84 ± 4.41	Pegasus
 		(HIP 109638)	(LHS 3773)						+08° 33? 12?		
@@ -2540,7 +2540,7 @@
 		(HIP 19394)							-53° 22? 25?		
 952	48.906	Gliese 163	Gliese 163 d	Planet	0.00007		—	—	04h 09m 16s	66.69 ± 1.82	Schwertfisch
 		(HIP 19394)							-53° 22? 25?		
-953	48.923	2MASS 0041-5621[51]	2MASS 0041-5621 A	M8		0.0286	12.37 J		00h 41m 35s	?	Phönix
+953	48.923	2MASS 0041-5621	2MASS 0041-5621 A	M8		0.0286	12.37 J		00h 41m 35s	?	Phönix
 		(DEN 0041-5621)	(RNR 1 A)						-56° 21? 13?		
 953	48.923	2MASS 0047+6803	2MASS 0047+6803	L7.5			15.60 J	—	00h 47m 00s	?	Kassiopeia
 		(WISE 0047+6803)	(WISE 0047+6803)						+68° 03? 54?		
@@ -2576,5 +2576,5 @@
 		(HIP 27359)	(LHS 1787)						-36° 19? 43?		
 970	49.046	2MASS 1058-1548	2MASS 1058-1548	L3			14.16 J	—	10h 58m 48s	66.50 ± 4.40	Becher
 		(2MUCD 10949)	(DEN 1058-1548)						-15° 48? 17?		
-971	49.046	Alderamin	? Cephei	A8Vn	2.3	1.74	2.46	1.57	06h 45m 09s	66.50 ± 4.40	Kepheus
+971	49.046	Alderamin	Alpha Cephei	A8Vn	2.3	1.74	2.46	1.57	06h 45m 09s	66.50 ± 4.40	Kepheus
 		(Alpha Cephei)	(Gliese 826)						-16° 42? 58?		
