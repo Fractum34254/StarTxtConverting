@@ -36,9 +36,17 @@ public:
 		else //no digits
 		{
 			///Planet?
-			if ((starclass.find("Planet") != std::string::npos) || (starclass.find("Gürtel") != std::string::npos))
+			if (starclass.find("Planet") != std::string::npos)
 			{
-				main_class = "non-star";
+				main_class = "Planet";
+				sub_class = -1.0f;
+				isStar = false;
+				return;
+			}
+			///Belt?
+			if (starclass.find("Gürtel") != std::string::npos)
+			{
+				main_class = "Belt";
 				sub_class = -1.0f;
 				isStar = false;
 				return;
@@ -51,7 +59,7 @@ public:
 				{
 					main_class.push_back(starclass.at(i));
 				}
-				sub_class = 5.0f;
+				sub_class = -1.0f;
 				return;
 			}
 			///Fail, unknown layout
@@ -61,6 +69,14 @@ public:
 	bool IsStar() const
 	{
 		return isStar;
+	}
+	std::string GetMainClass() const
+	{
+		return main_class;
+	}
+	float GetSubClass() const
+	{
+		return sub_class;
 	}
 private:
 	std::string main_class;
