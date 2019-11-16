@@ -7,6 +7,16 @@
 class Star
 {
 public:
+	enum type
+	{
+		Startype,
+		WhiteDwarf,
+		BrownDwarf,
+		RedGiant,
+		Belt,
+		Planet,
+		Undefined
+	};
 	Star(std::string firstLine, std::string secondLine)
 	{
 		std::string information;
@@ -69,7 +79,7 @@ public:
 						else if (information.back() == 'J')
 						{
 							appMag = std::stod(information.substr(0, information.size() - 3));
-							brownDwarf = true;
+							startype = type::BrownDwarf;
 						}
 						else
 						{
@@ -159,18 +169,199 @@ public:
 			marked = true;
 			std::cout << e.what() << " at tab stop nr. " << tabNum << std::endl;
 		}
+		
+		DefineType();
 	}
 	bool IsMarked() const
 	{
 		return marked;
 	}
-	bool IsStar() const
+	type GetType() const
 	{
-		return starclass.IsStar();
+		return startype;
+	}
+	std::string GetSystem() const
+	{
+		if (second_system != "")
+		{
+			return (common_system + " " + second_system);
+		}
+		else
+		{
+			return common_system;
+		}
+	}
+	std::string GetName() const
+	{
+		if (second_name != "")
+		{
+			return (common_name + " " + second_name);
+		}
+		else
+		{
+			return common_name;
+		}
+	}
+	std::string GetDistance() const
+	{
+		const std::string d = std::to_string(distance);
+		return d.substr(0, 6);
+	}
+	std::string GetMainStarClass() const
+	{
+		return starclass.GetMainClass();
+	}
+	std::string GetSubStarclass() const
+	{
+		const float s = starclass.GetSubClass();
+		if (s == -1.0f)
+		{
+			return "";
+		}
+		else
+		{
+			return std::to_string(s).substr(0, 3);
+		}
+	}
+	std::string GetRadius() const
+	{
+		if (radius == 0.0)
+		{
+			return "";
+		}
+		else
+		{
+			const std::string r = std::to_string(radius);
+			return r.substr(0, 7);
+		}
+	}
+	std::string GetMass() const
+	{
+		if (mass == 0.0)
+		{
+			return "";
+		}
+		else
+		{
+			const std::string m = std::to_string(mass);
+			return m.substr(0, 7);
+		}
+	}
+	std::string GetAppMag() const
+	{
+		if (appMag == -100.0)
+		{
+			return "";
+		}
+		else
+		{
+			const std::string am = std::to_string(appMag);
+			return am.substr(0, 4);
+		}
+	}
+	std::string GetAbsMag() const
+	{
+		if (absMag == -1.0)
+		{
+			return "";
+		}
+		else
+		{
+			const std::string am = std::to_string(absMag);
+			return am.substr(0, 4);
+		}
+	}
+	std::string GetRightAscension(const std::string& fill) const
+	{
+		return (std::to_string(a.GetHours()) + fill + std::to_string(a.GetMinutes()) + fill + std::to_string(a.GetSeconds()));
+	}
+	std::string GetDeclination(const std::string& fill) const
+	{
+		return ((d.GetNegative() ? "-" : "+") + fill + std::to_string(d.GetDegrees()) + fill + std::to_string(d.GetMinutes()) + fill + std::to_string(d.GetSeconds()));
+	}
+	std::string GetParallax() const
+	{
+		if (parallax == 0.0)
+		{
+			return "";
+		}
+		else
+		{
+			return std::to_string(parallax).substr(0, 6);
+		}
+	}
+	std::string GetConstellation() const
+	{
+		return constellation;
+	}
+	std::string GetStarType() const
+	{
+		std::string t;
+		switch (GetType())
+		{
+		case type::Belt:
+			t = "Gürtel";
+			break;
+		case type::BrownDwarf:
+			t = "Brauner Zwerg";
+			break;
+		case type::Planet:
+			t = "Planet";
+			break;
+		case type::RedGiant:
+			t = "Roter Riese";
+			break;
+		case type::Startype:
+			t = "Stern";
+			break;
+		case type::WhiteDwarf:
+			t = "Weißer Zwerg";
+			break;
+		case type::Undefined:
+			t = "Unbekannt";
+			break;
+		}
+		return t;
 	}
 private:
+	void DefineType()
+	{
+		if (startype == type::Undefined)
+		{
+			const std::string classStars = "OBAFGKM";
+			const std::string classBrownDwarfes = "LTY";
+			const std::string classRedGiants = "RNS";
+			const std::string classWhiteDwarfes = "D";
+
+			const std::string main_class = starclass.GetMainClass();
+			if (classStars.find(main_class) != std::string::npos)
+			{
+				startype = type::Startype;
+			}
+			else if (classBrownDwarfes.find(main_class) != std::string::npos)
+			{
+				startype = type::BrownDwarf;
+			}
+			else if (classRedGiants.find(main_class) != std::string::npos)
+			{
+				startype = type::RedGiant;
+			}
+			else if (classWhiteDwarfes.find(main_class.front()) != std::string::npos)
+			{
+				startype = type::WhiteDwarf;
+			}
+			else if (main_class == "Planet")
+			{
+				startype = type::Planet;
+			}
+			else if (main_class == "Belt")
+			{
+				startype = type::Belt;
+			}
+		}
+	}
 	bool marked = false;
-	bool brownDwarf = false;
+	type startype = type::Undefined;
 	double distance;			///lightyears
 	std::string common_system;
 	std::string second_system;
